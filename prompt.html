@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Prompt — Prompt Library</title>
+  <meta name="description" content="View and copy this AI prompt from Prompt.lib." />
+  <meta property="og:type" content="article" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ======= HEADER ======= -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-logo">Prompt<span>.</span>lib</a>
+
+      <div class="header-search">
+        <div class="search-wrap">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <input
+            class="search-input"
+            type="search"
+            placeholder="Search prompts…"
+            autocomplete="off"
+            onkeydown="if(event.key==='Enter'){window.location='index.html?q='+encodeURIComponent(this.value)}"
+          />
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ======= PROMPT DETAIL (populated by JS) ======= -->
+  <main id="prompt-detail">
+    <!-- Loading state -->
+    <div class="prompt-page-wrap">
+      <div class="skeleton" style="height:14px;width:100px;margin-bottom:2.5rem;border-radius:4px;"></div>
+      <div class="skeleton" style="height:22px;width:80px;margin-bottom:1.2rem;border-radius:4px;"></div>
+      <div class="skeleton" style="height:48px;width:80%;margin-bottom:0.5rem;border-radius:6px;"></div>
+      <div class="skeleton" style="height:2px;width:48px;margin:1.75rem 0;"></div>
+      <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.75rem;">
+        <div class="skeleton" style="height:12px;width:60px;margin-bottom:1rem;border-radius:3px;"></div>
+        <div class="skeleton" style="height:140px;border-radius:6px;"></div>
+      </div>
+      <div class="skeleton" style="height:42px;width:140px;margin-top:1.25rem;border-radius:6px;"></div>
+    </div>
+  </main>
+
+  <!-- ======= FOOTER ======= -->
+  <footer class="site-footer">
+    <p>Prompt.lib &mdash; A free, open AI prompt library &mdash; Built with ♥ and vanilla JS</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

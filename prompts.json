@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "youtube-script-generator",
+    "title": "YouTube Script Generator",
+    "category": "YouTube",
+    "preview": "Generate engaging, full-length YouTube scripts optimized for watch time and retention.",
+    "prompt": "Act as a professional YouTube script writer with 10+ years of experience creating viral content. Write a full, engaging script on the topic I provide. Structure it with: a hook in the first 15 seconds to grab attention, a clear intro that sets viewer expectations, 3-5 main sections with smooth transitions, storytelling elements and real-world examples throughout, pattern interrupts every 2-3 minutes to maintain attention, and a strong call-to-action at the end. Use conversational language, short punchy sentences, and natural pauses. Topic: [INSERT YOUR TOPIC HERE]"
+  },
+  {
+    "slug": "study-notes-generator",
+    "title": "Study Notes Generator",
+    "category": "Education",
+    "preview": "Transform complex topics into clear, structured study notes with examples.",
+    "prompt": "Act as an expert educator and learning specialist. Explain the following topic in simple, clear language that a beginner can understand. Structure your response with: a one-paragraph plain-English overview, key concepts broken into bullet points with definitions, 2-3 real-world examples that illustrate the ideas, a simple analogy that makes it memorable, common misconceptions to avoid, and a quick 5-question quiz to test understanding. Use formatting to make it easy to scan and review. Topic: [INSERT YOUR TOPIC HERE]"
+  },
+  {
+    "slug": "cold-email-writer",
+    "title": "Cold Email Writer",
+    "category": "Business",
+    "preview": "Write high-converting cold emails that get replies and open doors.",
+    "prompt": "Act as an expert copywriter specializing in cold outreach with a track record of 40%+ reply rates. Write a cold email for the context I provide. The email must: have a subject line with curiosity or a specific benefit, open with a personalized first line (not generic flattery), clearly state the value proposition in 1-2 sentences, include a specific, low-commitment call-to-action, and be under 150 words total. Avoid buzzwords, hype, and anything that sounds salesy. Write 3 variations: one direct, one story-led, one question-based. Context: [DESCRIBE YOUR PRODUCT/SERVICE AND TARGET RECIPIENT]"
+  },
+  {
+    "slug": "code-reviewer",
+    "title": "Code Reviewer & Debugger",
+    "category": "Coding",
+    "preview": "Get expert code review with bugs identified, improvements suggested, and best practices applied.",
+    "prompt": "Act as a senior software engineer with expertise in clean code, performance optimization, and security. Review the code I provide and give me: a summary of what the code does, a list of bugs or logical errors with line references, security vulnerabilities or risks, performance bottlenecks and how to fix them, readability and maintainability improvements, best practices that are being violated, and a refactored version of the code with comments explaining changes. Be specific, actionable, and explain your reasoning. Code: [PASTE YOUR CODE HERE]"
+  },
+  {
+    "slug": "chatgpt-prompt-improver",
+    "title": "ChatGPT Prompt Improver",
+    "category": "ChatGPT",
+    "preview": "Turn weak prompts into powerful, detailed instructions that get 10x better results.",
+    "prompt": "Act as a prompt engineering expert who specializes in getting maximum performance from large language models. Take the basic prompt I provide and transform it into a high-quality, detailed prompt by: adding a clear role and expertise level for the AI, specifying the exact output format desired, adding context and constraints, including examples of what good output looks like, breaking complex tasks into steps, adding quality criteria the output must meet, and specifying the audience and tone. Then explain what changes you made and why each improvement matters. Basic prompt: [PASTE YOUR WEAK PROMPT HERE]"
+  },
+  {
+    "slug": "business-plan-builder",
+    "title": "Business Plan Builder",
+    "category": "Business",
+    "preview": "Generate a comprehensive, investor-ready business plan for any idea.",
+    "prompt": "Act as an experienced startup advisor and business strategist who has helped launch 50+ successful companies. Create a comprehensive business plan for the idea I describe. Include: Executive Summary (the hook for investors), Problem Statement (pain point being solved), Solution & Value Proposition, Target Market & Customer Personas (with market size data), Competitive Landscape & Differentiation, Revenue Model & Pricing Strategy, Go-to-Market Strategy (first 90 days), Operations Plan, Financial Projections (Year 1-3, with assumptions), Funding Requirements & Use of Funds, and Key Risks & Mitigation Strategies. Make it realistic, specific, and compelling. Business idea: [DESCRIBE YOUR BUSINESS IDEA]"
+  },
+  {
+    "slug": "linkedin-post-writer",
+    "title": "LinkedIn Post Writer",
+    "category": "Business",
+    "preview": "Create scroll-stopping LinkedIn posts that build your personal brand and drive engagement.",
+    "prompt": "Act as a LinkedIn content strategist who specializes in personal branding for executives and entrepreneurs. Write a high-performing LinkedIn post based on my input. The post must: open with a pattern-interrupt first line (no 'I'm excited to share'), tell a story or share an insight that provides genuine value, use short paragraphs (1-3 lines max) for mobile readability, include a relatable moment of failure, learning, or surprise, end with a thought-provoking question to drive comments, and use strategic white space. Aim for 150-300 words. Write 2 versions: one personal story angle, one bold opinion/contrarian take. My topic or experience: [DESCRIBE WHAT YOU WANT TO POST ABOUT]"
+  },
+  {
+    "slug": "python-code-generator",
+    "title": "Python Code Generator",
+    "category": "Coding",
+    "preview": "Generate clean, well-documented Python code for any task or automation.",
+    "prompt": "Act as a senior Python developer with expertise in writing clean, efficient, production-ready code. Write Python code to accomplish the task I describe. Requirements: follow PEP 8 style guidelines, include detailed docstrings for all functions, add type hints throughout, handle edge cases and errors gracefully with try/except blocks, include comments explaining non-obvious logic, write it to be easily testable and maintainable, and add 3-5 example test cases at the bottom. After the code, provide a brief explanation of the approach, any libraries required, and how to run it. Task: [DESCRIBE WHAT YOU WANT THE CODE TO DO]"
+  },
+  {
+    "slug": "lesson-plan-creator",
+    "title": "Lesson Plan Creator",
+    "category": "Education",
+    "preview": "Build detailed, engaging lesson plans for any subject and grade level.",
+    "prompt": "Act as an experienced curriculum designer and master teacher with expertise in pedagogy and differentiated instruction. Create a detailed lesson plan for the subject, grade level, and duration I specify. Include: Learning Objectives (specific, measurable), Materials & Resources needed, Warm-Up Activity (5-10 min, activates prior knowledge), Direct Instruction section with key talking points, Guided Practice activity with teacher support, Independent Practice with differentiation for advanced and struggling learners, Formative Assessment strategy, Closure Activity to consolidate learning, Homework or extension task, and Accommodations for ELL students and IEP/504 learners. Subject: [SUBJECT] | Grade: [GRADE LEVEL] | Duration: [CLASS LENGTH]"
+  },
+  {
+    "slug": "youtube-thumbnail-idea",
+    "title": "YouTube Thumbnail Concept Generator",
+    "category": "YouTube",
+    "preview": "Get proven thumbnail concepts designed to maximize click-through rate.",
+    "prompt": "Act as a YouTube growth strategist and visual designer who has optimized thumbnails for channels with millions of subscribers. Generate 5 thumbnail concepts for my video topic that will maximize click-through rate. For each concept provide: a detailed description of the visual layout, the facial expression or emotion to convey (if showing a person), the text overlay (max 4-6 words, high contrast), the color palette and why it works, the psychological trigger it uses (curiosity gap, fear, desire, etc.), and a description of the background or setting. Also give me the single best concept and explain why it would outperform the others. Video topic: [YOUR VIDEO TOPIC AND TARGET AUDIENCE]"
+  },
+  {
+    "slug": "sql-query-generator",
+    "title": "SQL Query Generator",
+    "category": "Coding",
+    "preview": "Generate optimized SQL queries for any database task or analytical question.",
+    "prompt": "Act as a senior database engineer and SQL expert with deep knowledge of query optimization, indexing strategies, and data modeling. Write a SQL query to accomplish the task I describe. Provide: the complete SQL query with proper formatting and indentation, inline comments explaining complex parts, an explanation of the logic and approach, any indexes that should exist for optimal performance, alternative approaches if relevant, and notes on compatibility (MySQL / PostgreSQL / SQLite differences if applicable). Also identify potential issues like N+1 problems, full table scans, or missing WHERE clauses. Database schema or context: [DESCRIBE YOUR TABLES AND COLUMNS] | Task: [WHAT DO YOU WANT TO QUERY]"
+  },
+  {
+    "slug": "newsletter-writer",
+    "title": "Email Newsletter Writer",
+    "category": "Business",
+    "preview": "Craft compelling newsletters your subscribers will actually read and look forward to.",
+    "prompt": "Act as a world-class newsletter writer who has built audiences of 100,000+ subscribers from scratch. Write a high-quality newsletter edition based on my topic and audience. Structure it with: a subject line and preview text optimized for open rates, a compelling personal opening that draws the reader in, the main content section (educational, entertaining, or both), 2-3 curated resources or recommendations with short commentary, a signature insight or quote to end with, and a clear single call-to-action. Tone should be conversational, smart, and never boring. Match the personality to the niche I describe. Newsletter topic/niche: [YOUR TOPIC] | Target audience: [DESCRIBE YOUR READERS] | This edition's main theme: [MAIN TOPIC OR STORY]"
+  }
+]
