@@ -1,5 +1,1053 @@
 [
 {
+"slug":"name-neon-logo",
+"title":"Neon Name Logo Generator",
+"category":"AI Image",
+"preview":"Generate neon glowing name logo images.",
+"prompt":"Create a neon glowing logo using the text: [TEXT]. Use a dark background, vibrant neon lights, and cinematic glow."
+},
+{
+"slug":"name-fire-logo",
+"title":"Fire Text Logo",
+"category":"AI Image",
+"preview":"Generate fire style text images.",
+"prompt":"Create a dramatic fire effect text image using the text: [TEXT]. Flames around letters with dark background."
+},
+{
+"slug":"name-gold-logo",
+"title":"Golden Luxury Text",
+"category":"AI Image",
+"preview":"Generate luxury gold text logos.",
+"prompt":"Create a luxury golden metallic text logo with the text: [TEXT]. Elegant dark background with glowing reflections."
+},
+{
+"slug":"name-ice-text",
+"title":"Ice Text Effect",
+"category":"AI Image",
+"preview":"Generate icy frozen text.",
+"prompt":"Create frozen ice style text using the word: [TEXT]. Add cold blue lighting and frosty textures."
+},
+{
+"slug":"name-3d-text",
+"title":"3D Text Generator",
+"category":"AI Image",
+"preview":"Generate 3D text images.",
+"prompt":"Create a bold 3D text design using the word: [TEXT]. Use vibrant colors and dramatic lighting."
+},
+{
+"slug":"name-graffiti-text",
+"title":"Graffiti Street Text",
+"category":"AI Image",
+"preview":"Generate graffiti style name images.",
+"prompt":"Create graffiti street art text using the name: [TEXT]. Urban wall background with spray paint style."
+},
+{
+"slug":"name-cyberpunk-text",
+"title":"Cyberpunk Name Style",
+"category":"AI Image",
+"preview":"Generate cyberpunk neon text.",
+"prompt":"Create cyberpunk neon text design with the word: [TEXT]. Futuristic city background with glowing lights."
+},
+{
+"slug":"name-gaming-logo",
+"title":"Gaming Logo Text",
+"category":"AI Image",
+"preview":"Generate gaming style name logo.",
+"prompt":"Create a gaming logo with the text: [TEXT]. Use glowing edges, dark theme, and energetic colors."
+},
+{
+"slug":"name-crystal-text",
+"title":"Crystal Glass Text",
+"category":"AI Image",
+"preview":"Generate crystal text images.",
+"prompt":"Create transparent crystal glass text using the word: [TEXT]. Bright reflections and elegant background."
+},
+{
+"slug":"name-metal-text",
+"title":"Metal Text Effect",
+"category":"AI Image",
+"preview":"Generate metallic text images.",
+"prompt":"Create metallic steel text design using the text: [TEXT]. Industrial lighting and dark metal background."
+},
+{
+"slug":"name-nature-text",
+"title":"Nature Style Text",
+"category":"AI Image",
+"preview":"Generate nature themed name images.",
+"prompt":"Create nature themed text using the word: [TEXT]. Leaves, forest background, and green lighting."
+},
+{
+"slug":"name-flower-text",
+"title":"Flower Text Art",
+"category":"AI Image",
+"preview":"Generate floral text images.",
+"prompt":"Create floral decorated text with the word: [TEXT]. Flowers and soft natural background."
+},
+{
+"slug":"name-space-text",
+"title":"Space Theme Text",
+"category":"AI Image",
+"preview":"Generate space themed text images.",
+"prompt":"Create cosmic space themed text using the word: [TEXT]. Galaxy and star background."
+},
+{
+"slug":"name-rainbow-text",
+"title":"Rainbow Text Design",
+"category":"AI Image",
+"preview":"Generate rainbow colored text.",
+"prompt":"Create colorful rainbow gradient text using the name: [TEXT]. Bright and vibrant background."
+},
+{
+"slug":"name-shadow-text",
+"title":"Shadow Text Art",
+"category":"AI Image",
+"preview":"Generate shadow style name images.",
+"prompt":"Create dramatic shadow style text using the word: [TEXT]. Dark cinematic lighting."
+},
+{
+"slug":"name-water-text",
+"title":"Water Splash Text",
+"category":"AI Image",
+"preview":"Generate water splash text.",
+"prompt":"Create water splash text design using the word: [TEXT]. Realistic water droplets."
+},
+{
+"slug":"name-smoke-text",
+"title":"Smoke Text Effect",
+"category":"AI Image",
+"preview":"Generate smoky text images.",
+"prompt":"Create smoke style text using the word: [TEXT]. Dark mysterious background."
+},
+{
+"slug":"name-cartoon-text",
+"title":"Cartoon Style Text",
+"category":"AI Image",
+"preview":"Generate cartoon text images.",
+"prompt":"Create colorful cartoon style text using the word: [TEXT]. Fun animated background."
+},
+{
+"slug":"name-minimal-text",
+"title":"Minimal Text Logo",
+"category":"AI Image",
+"preview":"Generate minimal clean text logos.",
+"prompt":"Create minimal modern text logo using the word: [TEXT]. White background with clean typography."
+},
+{
+"slug":"name-vintage-text",
+"title":"Vintage Text Style",
+"category":"AI Image",
+"preview":"Generate vintage style text images.",
+"prompt":"Create vintage retro text using the word: [TEXT]. Old style typography and retro background."
+},
+{
+"slug":"name-luxury-text",
+"title":"Luxury Brand Text",
+"category":"AI Image",
+"preview":"Generate luxury brand style text.",
+"prompt":"Create luxury brand style typography using the word: [TEXT]. Elegant gold and black background."
+},
+{
+"slug":"name-light-text",
+"title":"Light Glow Text",
+"category":"AI Image",
+"preview":"Generate glowing light text.",
+"prompt":"Create glowing light text using the word: [TEXT]. Soft lighting and dreamy background."
+},
+{
+"slug":"name-night-text",
+"title":"Night Theme Text",
+"category":"AI Image",
+"preview":"Generate night scene text.",
+"prompt":"Create night themed text design using the word: [TEXT]. City lights and dark sky background."
+},
+{
+"slug":"name-sunset-text",
+"title":"Sunset Text Style",
+"category":"AI Image",
+"preview":"Generate sunset background text.",
+"prompt":"Create sunset themed text using the word: [TEXT]. Warm golden sky background."
+},
+{
+"slug":"name-snow-text",
+"title":"Snow Text Effect",
+"category":"AI Image",
+"preview":"Generate snowy text images.",
+"prompt":"Create snowy winter text using the word: [TEXT]. Snowflakes and cold atmosphere."
+},
+{
+"slug":"name-jungle-text",
+"title":"Jungle Style Text",
+"category":"AI Image",
+"preview":"Generate jungle themed text.",
+"prompt":"Create jungle themed text using the word: [TEXT]. Green forest background."
+},
+{
+"slug":"name-tech-text",
+"title":"Tech Style Text",
+"category":"AI Image",
+"preview":"Generate futuristic tech text.",
+"prompt":"Create futuristic tech style text using the word: [TEXT]. Digital interface background."
+},
+{
+"slug":"name-hologram-text",
+"title":"Hologram Text",
+"category":"AI Image",
+"preview":"Generate holographic text.",
+"prompt":"Create hologram style text using the word: [TEXT]. Futuristic holographic glow."
+},
+{
+"slug":"name-lightning-text",
+"title":"Lightning Text Effect",
+"category":"AI Image",
+"preview":"Generate lightning text.",
+"prompt":"Create lightning effect text using the word: [TEXT]. Electric energy background."
+},
+{
+"slug":"name-paint-text",
+"title":"Paint Splash Text",
+"category":"AI Image",
+"preview":"Generate paint splash typography.",
+"prompt":"Create colorful paint splash text using the word: [TEXT]. Artistic background."
+},
+{
+"slug":"name-watercolor-text",
+"title":"Watercolor Text",
+"category":"AI Image",
+"preview":"Generate watercolor style text.",
+"prompt":"Create watercolor painted text using the word: [TEXT]. Soft artistic background."
+},
+{
+"slug":"name-calligraphy-text",
+"title":"Calligraphy Text Art",
+"category":"AI Image",
+"preview":"Generate calligraphy style text.",
+"prompt":"Create elegant calligraphy text using the word: [TEXT]. Decorative artistic background."
+},
+{
+"slug":"name-galaxy-text",
+"title":"Galaxy Text",
+"category":"AI Image",
+"preview":"Generate galaxy themed text.",
+"prompt":"Create galaxy themed text using the word: [TEXT]. Deep space star background."
+},
+{
+"slug":"name-gradient-text",
+"title":"Gradient Text Style",
+"category":"AI Image",
+"preview":"Generate gradient color text.",
+"prompt":"Create gradient color typography using the word: [TEXT]. Modern design background."
+},
+{
+"slug":"name-glass-text",
+"title":"Glass Text Effect",
+"category":"AI Image",
+"preview":"Generate glass typography.",
+"prompt":"Create transparent glass text using the word: [TEXT]. Reflection background."
+},
+{
+"slug":"name-shadow-logo",
+"title":"Shadow Logo",
+"category":"AI Image",
+"preview":"Generate shadow typography.",
+"prompt":"Create shadow typography using the word: [TEXT]. Minimal dark background."
+},
+{
+"slug":"name-artistic-text",
+"title":"Artistic Text Style",
+"category":"AI Image",
+"preview":"Generate artistic typography.",
+"prompt":"Create artistic typography using the word: [TEXT]. Creative design background."
+},
+{
+"slug":"name-modern-logo",
+"title":"Modern Name Logo",
+"category":"AI Image",
+"preview":"Generate modern name logo.",
+"prompt":"Create modern stylish logo text using the word: [TEXT]. Clean background."
+},
+{
+"slug":"name-glow-text",
+"title":"Glow Text Design",
+"category":"AI Image",
+"preview":"Generate glowing text.",
+"prompt":"Create glowing light typography using the word: [TEXT]. Dark glowing background."
+},
+{
+"slug":"name-electric-text",
+"title":"Electric Text",
+"category":"AI Image",
+"preview":"Generate electric energy text.",
+"prompt":"Create electric energy text using the word: [TEXT]. Blue lightning background."
+},
+{
+"slug":"ai-web-app-builder-database-login",
+"title":"AI Ultimate Web App Builder + Database + Login System",
+"category":"Web Development",
+"preview":"Generate a complete web app with database, authentication, and dashboard.",
+"prompt":"Act as a senior full-stack developer, backend engineer, and security expert. Build a complete web application based on the user's requirements. The project must include a modern frontend interface, backend logic, and a database system. Implement user authentication including signup, login, logout, and session management. Create a secure dashboard for logged-in users where they can access app features. Organize the project with a clear folder structure including frontend files, backend scripts, and database configuration. Use best practices for security, responsive design, and maintainable code. After building the project, test all functionality including login system, database operations, navigation, and form submissions. Detect and report any missing features or issues. If something requested by the user is not implemented, clearly explain what is missing and how it can be added. Finally package the entire project into a downloadable ZIP file and provide instructions for running the application locally or deploying it to a hosting platform.",
+"description":"Use this prompt with AI coding agents such as ChatGPT, Claude, Cursor, or Replit AI. Paste the prompt and describe the web app you want. The AI will generate a complete web application with login system and database."
+},
+{
+"slug":"ai-ultimate-website-builder",
+"title":"AI Ultimate Website Builder Prompt",
+"category":"Web Development",
+"preview":"Generate a complete website project with testing and ZIP download.",
+"prompt":"Act as a senior full-stack web developer, UI designer, and QA tester. Your task is to build a complete website based on the user's requirements. First analyze the user's request and determine all required pages and features. Then create a full website project including HTML, CSS, JavaScript, and any required assets. Ensure the design is modern, responsive, and mobile-friendly. Organize the project with a clean folder structure. After building the website, test all functionality including navigation links, buttons, forms, scripts, and layout responsiveness. Check for errors such as broken links or missing files. If any requested feature is missing, clearly list what is missing and explain how the user can add it. Finally package the entire project into a downloadable ZIP file and provide instructions for running the website locally or hosting it online.",
+"description":"Use this prompt with AI coding agents such as ChatGPT, Claude, Cursor, or Replit AI. Paste the prompt and describe the website you want to build. The AI will generate the website project, test it, and provide it as a ZIP file."
+},
+{
+"slug":"ai-school-website-builder",
+"title":"AI School Website Builder",
+"category":"Web Development",
+"preview":"Generate a complete website for a school or educational institute.",
+"prompt":"Act as a professional web developer specialized in educational websites. Build a complete school website including homepage, about section, courses or classes section, teacher profiles, announcements or news section, admission information, and contact page. Ensure the design is clean, responsive, and easy for students and parents to navigate. Organize the project with proper HTML, CSS, and JavaScript files and test that all navigation links and pages work correctly.",
+"description":"Use this prompt with AI coding agents like ChatGPT, Claude, or Cursor. Describe the school name, classes offered, and contact information to generate a school website."
+},
+{
+"slug":"ai-coaching-website-builder",
+"title":"AI Coaching Website Builder",
+"category":"Web Development",
+"preview":"Generate a website for a coaching institute or training center.",
+"prompt":"Act as a professional web developer and UI designer. Create a website for a coaching institute that includes homepage, courses page, teacher profiles, student testimonials, results or achievements section, and contact form. Ensure the design is responsive and suitable for educational coaching centers. Test the navigation, layout, and page structure before delivering the project.",
+"description":"Paste this prompt into an AI coding tool and describe your coaching institute details to generate the website."
+},
+{
+"slug":"ai-tool-directory-website",
+"title":"AI Tool Directory Website Builder",
+"category":"Web Development",
+"preview":"Generate a website listing AI tools in categories.",
+"prompt":"Act as a full-stack developer. Build a directory-style website that lists AI tools. Each tool card should include tool name, short description, category, and link to the tool. Add search functionality and category filters so users can easily find tools. Ensure the design is responsive and easy to navigate.",
+"description":"Use this prompt to generate an AI tools directory website where users can browse different AI tools."
+},
+{
+"slug":"ai-startup-website-builder",
+"title":"AI Startup Website Builder",
+"category":"Web Development",
+"preview":"Generate a startup website with modern design.",
+"prompt":"Act as a startup website designer and developer. Create a modern website for a startup including homepage, product description section, features section, pricing section, testimonials, and contact page. The design should look modern and professional. Ensure the site is responsive and optimized for user engagement.",
+"description":"Use this prompt with AI coding agents to quickly generate a startup company website."
+},
+{
+"slug":"ai-landing-page-generator",
+"title":"AI Landing Page Generator",
+"category":"Web Development",
+"preview":"Generate a simple high-conversion landing page.",
+"prompt":"Act as a conversion-focused landing page designer. Create a landing page for the product or service described by the user. Include hero section, benefits, features, testimonials, and call-to-action buttons. Ensure the design is clean, responsive, and optimized for conversions.",
+"description":"Paste this prompt into an AI coding tool and describe your product or service to generate a landing page."
+},
+{
+"slug":"ai-portfolio-website-builder",
+"title":"AI Portfolio Website Builder",
+"category":"Web Development",
+"preview":"Generate a professional portfolio website for developers, designers, or creators.",
+"prompt":"Act as a professional web designer and frontend developer. Build a modern personal portfolio website based on the user's details. The website should include a homepage, about section, projects section, skills section, contact form, and social media links. Ensure the design is responsive, visually attractive, and optimized for both desktop and mobile devices. Organize the project files clearly and test that navigation links and layout work correctly.",
+"description":"Use this prompt with AI coding agents such as ChatGPT, Claude, or Cursor. Paste the prompt and describe your name, profession, and projects to generate a portfolio website."
+},
+{
+"slug":"ai-blog-website-generator",
+"title":"AI Blog Website Generator",
+"category":"Web Development",
+"preview":"Generate a complete blog website structure.",
+"prompt":"Act as a professional web developer and content platform designer. Create a full blog website including homepage, blog listing page, article page template, navigation menu, search functionality, and footer. The design should be clean, readable, and optimized for content publishing. Ensure responsive layout and organized file structure.",
+"description":"Use this prompt with an AI coding agent to generate a complete blog website project."
+},
+{
+"slug":"ai-ecommerce-website-builder",
+"title":"AI E-commerce Website Builder",
+"category":"Web Development",
+"preview":"Generate an online store website with product pages.",
+"prompt":"Act as an experienced e-commerce web developer. Build a complete e-commerce website including homepage, product listing page, product detail page, cart system, and checkout page layout. Ensure the design is modern, responsive, and optimized for user experience. Organize the project with clear folders and test that product navigation works correctly.",
+"description":"Paste this prompt into an AI coding tool and describe your store and products. The AI will generate an e-commerce website structure."
+},
+{
+"slug":"ai-prompt-library-builder",
+"title":"AI Prompt Library Website Builder",
+"category":"Web Development",
+"preview":"Generate a prompt library website for storing and sharing AI prompts.",
+"prompt":"Act as a full-stack developer. Build a prompt library website that displays prompts as cards. Each card should include title, category, preview text, and a copy button for the prompt. Add search functionality and category filters. Ensure the layout is responsive and easy to navigate. Organize prompts in a JSON file and test that the copy button and search features work correctly.",
+"description":"Use this prompt to generate a prompt library style website similar to prompt sharing platforms."
+},
+{
+"slug":"ai-web-app-builder",
+"title":"AI Web App Builder Prompt",
+"category":"Web Development",
+"preview":"Generate a complete web application with frontend and backend.",
+"prompt":"Act as a senior full-stack developer. Build a complete web application based on the user's requirements. The project must include frontend UI, backend logic, and clean folder structure. Use modern best practices, responsive design, and clear code organization. Before delivering the project, test all features such as navigation, forms, and interactions. If any feature requested by the user is missing or incomplete, clearly list what is missing and how the user can add it.",
+"description":"Use this prompt with AI coding tools like ChatGPT, Claude, Replit AI, or Cursor. Paste the prompt and then describe the web app you want to build."
+},
+{
+"slug":"ai-saas-website-generator",
+"title":"AI SaaS Website Generator",
+"category":"Web Development",
+"preview":"Generate a complete SaaS website including landing page and features.",
+"prompt":"Act as a SaaS product developer and web designer. Build a complete SaaS website including homepage, features section, pricing section, login/signup page, and dashboard concept. Ensure the design is modern, responsive, and optimized for conversion. Structure the project files clearly and ensure all links and components work correctly. Test the project and report if anything is missing.",
+"description":"Use this prompt with AI coding tools to generate a SaaS startup website structure quickly."
+},
+{
+"slug":"ai-landing-page-builder",
+"title":"AI Landing Page Builder",
+"category":"Web Development",
+"preview":"Generate a high-converting landing page for a product or service.",
+"prompt":"Act as a professional landing page designer and conversion optimization expert. Create a modern landing page for the product or service described by the user. The page should include hero section, features section, benefits, testimonials, call-to-action buttons, and footer. Ensure the design is responsive and visually appealing. Test the page layout and interactions before delivering the code.",
+"description":"Paste this prompt into an AI coding tool and describe your product or service. The AI will generate a landing page design and code."
+},
+{
+"slug":"ai-lms-website-builder",
+"title":"AI LMS Website Builder",
+"category":"Web Development",
+"preview":"Generate a learning management system website.",
+"prompt":"Act as a full-stack developer specialized in educational platforms. Build a complete LMS (Learning Management System) website. The platform should include student registration, login system, course pages, lesson pages, quiz or test module, and progress tracking. The design must be responsive and user friendly. Test the system functionality and report any missing modules or features.",
+"description":"Use this prompt with AI coding agents to generate an LMS style educational website."
+},
+{
+"slug":"ai-website-builder-agent",
+"title":"AI Website Builder Agent",
+"category":"Web Development",
+"preview":"Generate a complete website project and deliver it as a ZIP file.",
+"prompt":"Act as a senior full-stack web developer, UI designer, and QA tester. Your task is to build a complete working website based on the user's requirements. First analyze the user's requirement and determine all necessary features. Then generate a full project including HTML, CSS, JavaScript, and any required assets. Organize the project with a clean folder structure. After building the website, test the project to ensure all pages load correctly, CSS and JavaScript are properly connected, buttons and links work, and there are no console errors. If something is missing or not implemented, clearly list what features are missing and explain what the user needs to add. Finally compress the entire project into a downloadable ZIP file and provide the instructions for running the website locally or hosting it online.",
+"description":"Use this prompt with an AI coding agent such as ChatGPT, Claude, Replit AI, or Cursor. Paste the prompt and then describe the website you want. The AI will generate the full website project and provide it as a ZIP file after testing it."
+},
+{
+"slug":"strict-step-guide",
+"title":"Strict Step Guide Prompt",
+"category":"Guides",
+"preview":"Generate clear step-by-step instructions.",
+"prompt":"Provide step-by-step instructions to complete the task. Each step must be clear, short, and actionable. Avoid unnecessary explanations."
+},
+{
+"slug":"data-extraction-prompt",
+"title":"Data Extraction Prompt",
+"category":"AI Tools",
+"preview":"Extract only the required information from text.",
+"prompt":"Extract only the requested information from the provided text. Do not summarize or explain anything. Return only the extracted data in the requested format."
+},
+{
+"slug":"coding-strict-output",
+"title":"Coding Strict Output Prompt",
+"category":"Coding",
+"preview":"Generate code without unnecessary explanations.",
+"prompt":"Act as a senior software engineer. Write code to accomplish the requested task. Only return the code. Do not include explanations, comments, or extra text unless explicitly requested."
+},
+{
+"slug":"exact-format-output",
+"title":"Exact Format Output Prompt",
+"category":"AI Control",
+"preview":"Force AI to follow a strict output format.",
+"prompt":"Act as a precise assistant that must follow strict formatting rules. Produce the output exactly in the requested structure. Do not add extra sentences or explanations. If the user requests a list, table, or specific structure, return only that format."
+},
+{
+"slug":"strict-answer-only-prompt",
+"title":"Strict Answer Only Prompt",
+"category":"AI Control",
+"preview":"Force AI to give only the exact answer with no extra explanation.",
+"prompt":"Act as a precise assistant. Your task is to answer the user's request exactly as asked. Do not add explanations, background information, or additional commentary. Only provide the exact output requested. If a specific format is requested, follow it strictly. User request: [INSERT REQUEST]"
+},
+{
+"slug":"universal-story-generator",
+"title":"Universal Story Generator",
+"category":"Story",
+"preview":"Generate stories in Hindi, English, or any language based on the user's input.",
+"prompt":"Act as a professional storyteller and creative writer. Create an engaging story based on the user's input. The user can write their request in Hindi, English, or any language, and you must generate the story in the same language as the user's request. Structure the story with a clear beginning, rising conflict, emotional moments, climax, and resolution. Include vivid descriptions of characters, environment, and actions so the story feels cinematic and immersive. After writing the story, also provide a short title and a one-paragraph summary of the story.\n\nUser instruction: Write your story request in any language (Hindi, English, etc.). Example: topic, character, genre, mood, or theme."
+},
+{
+"slug":"story-to-image-motion-scenes",
+"title":"Story to Image + Motion Scene Generator",
+"category":"AI Video",
+"preview":"Convert a story into scene-by-scene image prompts and motion prompts.",
+"prompt":"Act as an AI video director and visual storyteller. Take the provided story and convert it into a detailed scene-by-scene breakdown for AI image and video generation.\n\nFor each scene, follow this format:\n\nScene 1\nImage Prompt: Describe the visual scene in detail including characters, environment, lighting, atmosphere, colors, and style.\nMotion Prompt: Describe camera movement, character actions, animation details, and cinematic style (camera angle, movement, zoom, lighting transitions).\nScene Description: Brief explanation of what happens in the scene.\n\nScene 2\nImage Prompt\nMotion Prompt\nScene Description\n\nContinue this structure step by step until the entire story is converted into visual scenes. Ensure each scene logically follows the story and is suitable for generating AI images or videos."
+},
+{
+"slug":"ai-video-generator-prompt",
+"title":"AI Video Generator Prompt",
+"category":"AI Video",
+"preview":"Generate a complete AI video plan including scenes, visuals, and narration.",
+"prompt":"Act as an AI video director and creative storyteller. Create a complete video plan for the topic: [VIDEO TOPIC]. Structure the output with: (1) Video title ideas, (2) Hook for the first 5–10 seconds, (3) Full narration script, (4) Scene-by-scene breakdown with visual descriptions, (5) AI image/video prompts for each scene, (6) Suggestions for background music and editing style, and (7) A strong call to action. Ensure the video is engaging, visually appealing, and optimized for platforms like YouTube, Instagram, or TikTok."
+},
+{
+"slug":"seo-content-generator-pro",
+"title":"SEO Content Generator",
+"category":"SEO",
+"preview":"Create SEO optimized articles designed to rank on search engines.",
+"prompt":"Act as an expert SEO content writer. Write a detailed article about [TOPIC]. The article must include: an engaging introduction, clear headings (H2 and H3), well explained sections, relevant examples, and a strong conclusion. Include SEO best practices such as keyword placement, readable structure, and informative content designed to rank well on search engines."
+},
+{
+"slug":"prompt-improver-engineer",
+"title":"Prompt Improver (Prompt Engineer Tool)",
+"category":"Prompt Engineering",
+"preview":"Improve weak prompts into powerful AI instructions.",
+"prompt":"Act as a prompt engineering expert who specializes in optimizing prompts for AI systems. Improve the following prompt to make it clearer, more detailed, and more effective. Add role instructions, context, constraints, and output formatting guidelines. Also explain why the improved prompt will produce better results. Prompt to improve: [INSERT PROMPT]"
+},
+{
+"slug":"chatgpt-super-assistant-prompt",
+"title":"ChatGPT Super Assistant Prompt",
+"category":"AI",
+"preview":"Turn ChatGPT into a powerful expert assistant for any task.",
+"prompt":"Act as an advanced AI assistant with deep expertise across research, writing, technology, business, and education. When responding to the user's request, follow this structured process: (1) Understand the user's objective and restate the problem clearly. (2) Provide a concise overview of the topic. (3) Break the explanation into logical sections with headings. (4) Provide step-by-step guidance or frameworks where applicable. (5) Include practical examples or use cases. (6) Highlight key insights or important takeaways. (7) Suggest improvements, alternatives, or advanced tips. Always keep responses clear, structured, and actionable so the user can immediately apply the information. User request: [ENTER TASK OR QUESTION]"
+},
+{
+"slug":"ai-image-generator-pro",
+"title":"AI Image Generator Pro",
+"category":"AI Image",
+"preview":"Generate detailed prompts for creating realistic AI images.",
+"prompt":"Act as a professional AI image prompt engineer and visual artist. Create a highly detailed prompt for generating an image of [SUBJECT]. The prompt should include environment description, lighting style (cinematic, soft light, neon, etc.), camera angle, lens type, color palette, mood, artistic style inspiration, and rendering quality. Optimize the prompt so it produces high-quality results in AI tools like Midjourney, DALL-E, Leonardo AI, or Stable Diffusion."
+},
+{
+"slug":"youtube-thumbnail-generator-pro",
+"title":"YouTube Thumbnail Generator",
+"category":"YouTube",
+"preview":"Generate high-CTR YouTube thumbnail ideas and visual concepts.",
+"prompt":"Act as a YouTube thumbnail designer who specializes in high click-through rate visuals. Generate 5 thumbnail concepts for a video titled [VIDEO TITLE]. For each concept describe: visual layout, subject expression or emotion, background elements, color palette, and text overlay (maximum 4-6 words). Explain why each concept would attract clicks and increase viewer curiosity."
+},
+{
+"slug":"coding-assistant-expert",
+"title":"Coding Assistant Expert",
+"category":"Coding",
+"preview":"Generate clean, optimized, and well-documented code for any task.",
+"prompt":"Act as a senior software engineer with expertise in writing clean, maintainable, and efficient code. Write code to accomplish the task: [TASK]. Follow best practices, include comments explaining important logic, and structure the solution clearly. After the code, explain how it works, suggest improvements, and mention any libraries or tools required."
+},
+{
+"slug":"notebooklm-short-notes-generator",
+"title":"NotebookLM Short Notes Generator",
+"category":"NotebookLM",
+"preview":"Generate concise short notes from uploaded study material.",
+"prompt":"Act as an expert teacher. Using ONLY the uploaded sources in this NotebookLM notebook, create short and clear study notes summarizing the key ideas, concepts, and definitions.",
+"description":"Upload a chapter or study material in NotebookLM and paste this prompt in the chat to generate short revision notes."
+},
+{
+"slug":"notebooklm-long-notes-generator",
+"title":"NotebookLM Detailed Notes Generator",
+"category":"NotebookLM",
+"preview":"Generate detailed notes from uploaded content.",
+"prompt":"Act as an academic educator. Using ONLY the uploaded sources in this NotebookLM notebook, generate detailed study notes explaining the key concepts with examples.",
+"description":"Paste this prompt in NotebookLM after uploading notes or textbooks to generate detailed learning notes."
+},
+{
+"slug":"notebooklm-mindmap-generator",
+"title":"NotebookLM Mindmap Generator",
+"category":"NotebookLM",
+"preview":"Create a mindmap structure from uploaded material.",
+"prompt":"Act as a learning strategist. Using ONLY the uploaded sources in this NotebookLM notebook, create a structured mindmap of the key concepts and their relationships.",
+"description":"Use this prompt in NotebookLM to generate a mindmap style outline for easier revision."
+},
+{
+"slug":"notebooklm-important-points",
+"title":"NotebookLM Important Points Extractor",
+"category":"NotebookLM",
+"preview":"Extract the most important points from uploaded material.",
+"prompt":"Act as a study guide creator. Using ONLY the uploaded sources in this NotebookLM notebook, list the most important key points students should remember.",
+"description":"Paste this prompt in NotebookLM to quickly extract key points for exam preparation."
+},
+{
+"slug":"notebooklm-definition-generator",
+"title":"NotebookLM Definition Generator",
+"category":"NotebookLM",
+"preview":"Generate key definitions from study material.",
+"prompt":"Using ONLY the uploaded sources in this NotebookLM notebook, extract and list all important definitions related to the topic.",
+"description":"Use this prompt in NotebookLM to generate a list of key definitions for quick study."
+},
+{
+"slug":"notebooklm-question-answer-generator",
+"title":"NotebookLM Q&A Generator",
+"category":"NotebookLM",
+"preview":"Generate question-answer pairs from uploaded sources.",
+"prompt":"Act as a teacher preparing exam questions. Using ONLY the uploaded sources in this NotebookLM notebook, generate 20 question and answer pairs based on the material.",
+"description":"Paste this prompt in NotebookLM to generate practice questions."
+},
+{
+"slug":"notebooklm-concept-explainer",
+"title":"NotebookLM Concept Explainer",
+"category":"NotebookLM",
+"preview":"Explain concepts clearly from uploaded content.",
+"prompt":"Act as an experienced teacher. Using ONLY the uploaded sources in this NotebookLM notebook, explain the key concepts in simple and clear language.",
+"description":"Use this prompt in NotebookLM to get easy explanations of difficult topics."
+},
+{
+"slug":"notebooklm-exam-paper-generator",
+"title":"NotebookLM Exam Paper Generator",
+"category":"NotebookLM",
+"preview":"Generate a full exam paper from uploaded material.",
+"prompt":"Act as an exam paper designer. Using ONLY the uploaded sources in this NotebookLM notebook, create an exam paper with MCQs, short answer questions, and long answer questions.",
+"description":"Paste this prompt in NotebookLM to generate a full practice exam paper."
+},
+{
+"slug":"notebooklm-study-guide",
+"title":"NotebookLM Study Guide Generator",
+"category":"NotebookLM",
+"preview":"Create a structured study guide.",
+"prompt":"Act as a learning coach. Using ONLY the uploaded sources in this NotebookLM notebook, create a structured study guide with sections, key points, and summaries.",
+"description":"Use this prompt to generate a full study guide from uploaded materials."
+},
+{
+"slug":"notebooklm-revision-notes",
+"title":"NotebookLM Revision Notes",
+"category":"NotebookLM",
+"preview":"Generate quick revision notes.",
+"prompt":"Using ONLY the uploaded sources in this NotebookLM notebook, create quick revision notes summarizing the most important concepts.",
+"description":"Paste this prompt in NotebookLM to generate fast revision notes before exams."
+},
+{
+"slug":"notebooklm-summary-generator",
+"title":"NotebookLM Summary Generator",
+"category":"NotebookLM",
+"preview":"Generate concise summaries of uploaded material.",
+"prompt":"Act as a summarization expert. Using ONLY the uploaded sources in this NotebookLM notebook, summarize the main ideas clearly.",
+"description":"Use this prompt to quickly summarize long study material."
+},
+{
+"slug":"notebooklm-topic-breakdown",
+"title":"NotebookLM Topic Breakdown",
+"category":"NotebookLM",
+"preview":"Break a topic into clear subtopics.",
+"prompt":"Using ONLY the uploaded sources in this NotebookLM notebook, break the topic into clear subtopics and explain them briefly.",
+"description":"Paste this prompt to understand the structure of a topic."
+},
+{
+"slug":"notebooklm-learning-plan",
+"title":"NotebookLM Learning Plan",
+"category":"NotebookLM",
+"preview":"Create a structured learning plan.",
+"prompt":"Act as a learning coach. Using ONLY the uploaded sources in this NotebookLM notebook, create a step-by-step learning plan for mastering the topic.",
+"description":"Use this prompt to generate a study plan."
+},
+{
+"slug":"notebooklm-example-generator",
+"title":"NotebookLM Example Generator",
+"category":"NotebookLM",
+"preview":"Generate examples from the material.",
+"prompt":"Using ONLY the uploaded sources in this NotebookLM notebook, generate clear examples explaining the key concepts.",
+"description":"Paste this prompt to get examples for better understanding."
+},
+{
+"slug":"notebooklm-diagram-ideas",
+"title":"NotebookLM Diagram Ideas",
+"category":"NotebookLM",
+"preview":"Generate diagram ideas for study topics.",
+"prompt":"Using ONLY the uploaded sources in this NotebookLM notebook, suggest diagrams or visual explanations for the concepts.",
+"description":"Use this prompt to generate diagram ideas for study materials."
+},
+{
+"slug":"notebooklm-flashcards-generator",
+"title":"NotebookLM Flashcards Generator",
+"category":"NotebookLM",
+"preview":"Generate study flashcards.",
+"prompt":"Using ONLY the uploaded sources in this NotebookLM notebook, generate flashcards for quick revision.",
+"description":"Paste this prompt in NotebookLM to create flashcards for memorization."
+},
+{
+"slug":"notebooklm-keywords-extractor",
+"title":"NotebookLM Keyword Extractor",
+"category":"NotebookLM",
+"preview":"Extract important keywords.",
+"prompt":"Using ONLY the uploaded sources in this NotebookLM notebook, list the most important keywords and terms.",
+"description":"Use this prompt to extract important keywords from study material."
+},
+{
+"slug":"notebooklm-discussion-points",
+"title":"NotebookLM Discussion Points",
+"category":"NotebookLM",
+"preview":"Generate discussion points for the topic.",
+"prompt":"Using ONLY the uploaded sources in this NotebookLM notebook, generate discussion questions related to the topic.",
+"description":"Paste this prompt to generate discussion points."
+},
+{
+"slug":"notebooklm-teaching-outline",
+"title":"NotebookLM Teaching Outline",
+"category":"NotebookLM",
+"preview":"Create a teaching outline.",
+"prompt":"Act as a teacher preparing a lecture. Using ONLY the uploaded sources in this NotebookLM notebook, create a lecture outline.",
+"description":"Use this prompt to generate teaching outlines."
+},
+{
+"slug":"notebooklm-learning-questions",
+"title":"NotebookLM Learning Questions",
+"category":"NotebookLM",
+"preview":"Generate learning questions.",
+"prompt":"Using ONLY the uploaded sources in this NotebookLM notebook, generate questions that help students test their understanding.",
+"description":"Paste this prompt to generate learning questions."
+},
+{
+"slug":"notebooklm-100-mcq-generator",
+"title":"NotebookLM 100 MCQ Generator",
+"category":"NotebookLM",
+"preview":"Generate 100 MCQ questions from uploaded study material in NotebookLM.",
+"prompt":"Act as an expert exam paper setter and academic assessment designer. Using ONLY the information from the uploaded sources in this NotebookLM notebook, generate exactly 100 multiple-choice questions. Each question must include four options (A, B, C, D) and clearly mark the correct answer. Ensure questions cover different concepts from the material and include conceptual, analytical, and application-based questions.",
+"description":"Use this prompt in NotebookLM after uploading your study material such as PDF notes, textbooks, or documents. Paste the prompt into the NotebookLM chat box and it will generate 100 MCQ questions from the uploaded sources."
+},
+{
+"slug":"notebooklm-ppt-generator",
+"title":"NotebookLM PPT Generator",
+"category":"NotebookLM",
+"preview":"Generate ready-to-use presentation slides from uploaded content.",
+"prompt":"Act as a professional presentation designer and educational content creator. Using ONLY the information from the uploaded sources in this NotebookLM notebook, create a structured PowerPoint presentation. Each slide should include a title and 3–5 bullet points summarizing the key concepts. Also suggest slides for introduction, key ideas, examples, and summary.",
+"description":"Upload a chapter, document, or study material in NotebookLM. Paste this prompt in the NotebookLM chat box to generate a ready PPT slide structure that you can copy into PowerPoint or Google Slides."
+},
+{
+"slug":"notebooklm-video-script-generator",
+"title":"NotebookLM Video Script Generator",
+"category":"NotebookLM",
+"preview":"Create a detailed educational video script from uploaded material.",
+"prompt":"Act as an educational YouTube teacher and video script writer. Using ONLY the information from the uploaded sources in this NotebookLM notebook, create a detailed video script explaining the topic. Structure the script with: video title, hook for the first 10 seconds, introduction, step-by-step explanation of concepts, examples, key points recap, and a conclusion with a call to action.",
+"description":"Upload study notes, PDFs, or textbooks into NotebookLM. Paste this prompt in the chat to generate a complete educational video script explaining the uploaded material."
+},
+{
+"slug":"notebooklm-podcast-generator",
+"title":"NotebookLM Podcast Generator",
+"category":"NotebookLM",
+"preview":"Generate an educational podcast script from uploaded sources.",
+"prompt":"Act as a podcast host and educational communicator. Using ONLY the information from the uploaded sources in this NotebookLM notebook, create a podcast script explaining the topic. Structure it with: podcast intro, main discussion, interesting insights or examples, key takeaways, and a closing summary.",
+"description":"After uploading sources in NotebookLM, paste this prompt in the chat. NotebookLM will generate a podcast-style explanation of the uploaded material."
+},
+{
+"slug":"photorealistic-portrait-generator",
+"title":"Photorealistic Portrait Generator",
+"category":"AI Image",
+"preview":"Generate realistic portrait photos from AI.",
+"prompt":"Act as a professional photographer and generate a photorealistic portrait image of [SUBJECT]. Include natural skin texture, realistic lighting, cinematic background blur, and DSLR camera quality."
+},
+{
+"slug":"cinematic-photo-generator",
+"title":"Cinematic Photo Generator",
+"category":"AI Image",
+"preview":"Create cinematic style photographs.",
+"prompt":"Create a cinematic photograph of [SCENE]. Use dramatic lighting, film style color grading, and high resolution camera quality."
+},
+{
+"slug":"studio-photo-generator",
+"title":"Professional Studio Photo",
+"category":"AI Image",
+"preview":"Generate professional studio photographs.",
+"prompt":"Generate a professional studio photo of [SUBJECT]. Include soft studio lighting, clean background, and sharp camera focus."
+},
+{
+"slug":"travel-photo-generator",
+"title":"Travel Photography Prompt",
+"category":"AI Image",
+"preview":"Generate stunning travel photographs.",
+"prompt":"Create a realistic travel photograph of [LOCATION]. Include natural lighting, scenic background, and vibrant colors."
+},
+{
+"slug":"street-photography-prompt",
+"title":"Street Photography Prompt",
+"category":"AI Image",
+"preview":"Generate realistic street photography images.",
+"prompt":"Generate a street photography style image of [SCENE]. Include natural environment, candid moment, and realistic lighting."
+},
+{
+"slug":"nature-photo-generator",
+"title":"Nature Photography Generator",
+"category":"AI Image",
+"preview":"Generate nature photos.",
+"prompt":"Create a realistic nature photograph of [LANDSCAPE]. Include natural sunlight, detailed environment, and cinematic composition."
+},
+{
+"slug":"food-photo-generator",
+"title":"Food Photography Prompt",
+"category":"AI Image",
+"preview":"Generate professional food photos.",
+"prompt":"Create a high quality food photograph of [DISH]. Include restaurant style presentation, warm lighting, and realistic texture."
+},
+{
+"slug":"product-photo-generator",
+"title":"Product Photography Prompt",
+"category":"AI Image",
+"preview":"Generate product photography images.",
+"prompt":"Create a professional product photo of [PRODUCT]. Include studio lighting, minimal background, and commercial photography style."
+},
+{
+"slug":"fashion-photo-generator",
+"title":"Fashion Photography Prompt",
+"category":"AI Image",
+"preview":"Generate fashion photos.",
+"prompt":"Create a fashion photography image of [MODEL OR OUTFIT]. Include dramatic lighting, stylish pose, and magazine quality."
+},
+{
+"slug":"wildlife-photo-generator",
+"title":"Wildlife Photography Prompt",
+"category":"AI Image",
+"preview":"Generate wildlife photographs.",
+"prompt":"Create a realistic wildlife photograph of [ANIMAL]. Include natural habitat, detailed fur or skin texture, and telephoto lens perspective."
+},
+{
+"slug":"sunset-photo-generator",
+"title":"Sunset Photography Prompt",
+"category":"AI Image",
+"preview":"Generate sunset landscape photos.",
+"prompt":"Create a cinematic sunset photograph of [LOCATION]. Include warm golden light, dramatic sky, and realistic colors."
+},
+{
+"slug":"cityscape-photo-generator",
+"title":"Cityscape Photography Prompt",
+"category":"AI Image",
+"preview":"Generate city photography images.",
+"prompt":"Create a high resolution cityscape photograph of [CITY]. Include night lights, reflections, and urban environment."
+},
+{
+"slug":"night-photo-generator",
+"title":"Night Photography Prompt",
+"category":"AI Image",
+"preview":"Generate night photos.",
+"prompt":"Create a night photography image of [SCENE]. Include low light conditions, glowing lights, and cinematic atmosphere."
+},
+{
+"slug":"macro-photo-generator",
+"title":"Macro Photography Prompt",
+"category":"AI Image",
+"preview":"Generate macro photos.",
+"prompt":"Create a macro photography image of [OBJECT]. Include extreme detail, shallow depth of field, and sharp focus."
+},
+{
+"slug":"portrait-lighting-photo",
+"title":"Portrait Lighting Photography",
+"category":"AI Image",
+"preview":"Generate portrait lighting photos.",
+"prompt":"Create a professional portrait photo of [PERSON]. Include dramatic portrait lighting, soft shadows, and high detail."
+},
+{
+"slug":"aesthetic-photo-generator",
+"title":"Aesthetic Photography Prompt",
+"category":"AI Image",
+"preview":"Generate aesthetic photos.",
+"prompt":"Create an aesthetic photograph of [SCENE]. Include pastel colors, soft lighting, and calm atmosphere."
+},
+{
+"slug":"mountain-photo-generator",
+"title":"Mountain Photography Prompt",
+"category":"AI Image",
+"preview":"Generate mountain photos.",
+"prompt":"Create a realistic mountain landscape photograph of [LOCATION]. Include fog, dramatic sky, and natural lighting."
+},
+{
+"slug":"beach-photo-generator",
+"title":"Beach Photography Prompt",
+"category":"AI Image",
+"preview":"Generate beach photos.",
+"prompt":"Create a beach photography image of [LOCATION]. Include blue water, sunlight reflections, and tropical atmosphere."
+},
+{
+"slug":"rain-photo-generator",
+"title":"Rain Photography Prompt",
+"category":"AI Image",
+"preview":"Generate rainy scene photos.",
+"prompt":"Create a cinematic rain scene photograph of [SCENE]. Include reflections on wet surfaces and moody lighting."
+},
+{
+"slug":"golden-hour-photo",
+"title":"Golden Hour Photography",
+"category":"AI Image",
+"preview":"Generate golden hour photos.",
+"prompt":"Create a golden hour photograph of [SUBJECT]. Include warm sunlight, soft shadows, and natural glow."
+},
+{
+"slug":"ai-video-generator-scenes",
+"title":"AI Video Generator (Image + Scene Prompt)",
+"category":"Video",
+"preview":"Generate detailed scenes and visual prompts for creating AI videos.",
+"prompt":"Act as an AI video director and cinematic storyteller. Create a detailed scene-by-scene plan for generating a video about [TOPIC]. For each scene provide: scene description, camera angle, lighting style, environment details, visual elements, and a prompt suitable for AI image/video tools such as Midjourney, Runway, or Pika. Also include transitions between scenes and suggestions for background music and pacing."
+},
+{
+"slug":"youtube-viral-video-prompt",
+"title":"YouTube Viral Video Prompt",
+"category":"YouTube",
+"preview":"Create a complete viral YouTube video strategy and script.",
+"prompt":"Act as a YouTube growth strategist and viral content expert. Create a complete plan for a YouTube video about [TOPIC]. Include: 5 clickable title ideas, a powerful hook for the first 10 seconds, a structured video script with engaging storytelling, scene suggestions, editing style, retention techniques, and a strong call to action. Focus on maximizing watch time and engagement."
+},
+{
+"slug":"shorts-reel-video-prompt",
+"title":"Shorts / Reel Video Prompt",
+"category":"Short Video",
+"preview":"Generate engaging short-form video ideas for TikTok, Shorts, and Reels.",
+"prompt":"Act as a short-form video creator who specializes in viral content for TikTok, Instagram Reels, and YouTube Shorts. Generate a short video concept about [TOPIC]. Include: a strong hook within the first 2 seconds, quick scene ideas, captions or on-screen text, pacing suggestions, and an ending designed to encourage engagement such as comments or shares."
+},
+{
+"slug":"ultimate-video-creator-prompt",
+"title":"Ultimate Video Creation Prompt",
+"category":"Video",
+"preview":"Generate a complete video script, scene ideas, and visuals for creating engaging videos.",
+"prompt":"Act as a professional video creator, script writer, and visual storyteller with experience creating high engagement videos for platforms like YouTube, Instagram, and TikTok. Your task is to create a complete video plan for the topic: [VIDEO TOPIC].\n\nStructure the output in the following format:\n\n1. Video Title Ideas\nGenerate 5 compelling titles designed to attract clicks and interest.\n\n2. Video Hook (First 5–10 seconds)\nWrite a strong opening hook that immediately grabs the viewer's attention.\n\n3. Video Introduction\nWrite a short and engaging introduction that explains what the viewer will learn.\n\n4. Main Video Script\nCreate a well structured script with clear sections. Include storytelling elements, examples, and simple explanations.\n\n5. Scene and Visual Ideas\nDescribe what visuals or footage should appear in each part of the video.\n\n6. Background Music and Editing Style\nSuggest music style, pacing, transitions, and editing techniques.\n\n7. Engagement Elements\nInclude ideas for questions, curiosity gaps, or audience interaction to increase watch time.\n\n8. Call to Action\nWrite a strong call to action encouraging viewers to like, comment, subscribe, or follow.\n\nMake the video plan clear, engaging, and optimized for high viewer retention."
+},
+{
+"slug":"ultimate-ai-super-assistant",
+"title":"Ultimate AI Super Assistant",
+"category":"AI",
+"preview":"Turn AI into a powerful expert assistant for solving any task with structured and accurate answers.",
+"prompt":"Act as a highly intelligent AI super assistant with expertise across multiple domains including research, business, technology, education, and problem solving. Your goal is to provide the most accurate, structured, and useful response possible for the user's request.\n\nWhen answering:\n\n1. First clearly understand the user's request and identify the core problem or question.\n2. Provide a clear explanation of the topic in simple language.\n3. Break the response into logical sections using headings.\n4. Provide step-by-step guidance when applicable.\n5. Include practical examples to improve understanding.\n6. Highlight key insights or important takeaways.\n7. Suggest improvements, alternatives, or advanced tips when relevant.\n8. Keep the answer structured, concise, and informative.\n\nIf the request involves solving a problem, also include:\n- Root cause analysis\n- Multiple possible solutions\n- Recommended best solution with reasoning\n\nAlways aim to produce answers that are clear, practical, and actionable so the user can immediately apply the information.\n\nUser request: [INSERT TASK OR QUESTION HERE]"
+},
+{
+"slug":"ultimate-research-expert",
+"title":"Ultimate Research Expert",
+"category":"Research",
+"preview":"Get deep, well-structured research answers on any topic.",
+"prompt":"Act as a senior research analyst with expertise in academic research, data analysis, and critical thinking. Explain the topic: [TOPIC]. Provide: a clear overview, key concepts explained simply, real-world examples, important facts or statistics if relevant, advantages and disadvantages, common misconceptions, and a concise summary. Structure the answer with headings and bullet points so it is easy to understand."
+},
+{
+"slug":"advanced-problem-solver",
+"title":"Advanced Problem Solver",
+"category":"AI",
+"preview":"Analyze problems deeply and provide structured solutions.",
+"prompt":"Act as an expert problem solver and strategic thinker. Analyze the following problem: [PROBLEM]. First explain the root cause, then provide multiple possible solutions, compare their advantages and disadvantages, and recommend the best solution with reasoning. Include step-by-step actions to implement the solution."
+},
+{
+"slug":"ultimate-explainer",
+"title":"Ultimate Concept Explainer",
+"category":"Education",
+"preview":"Explain complex topics clearly and deeply.",
+"prompt":"Act as an expert educator and communicator. Explain the concept: [TOPIC]. Structure your answer with: simple definition, key principles, real-life examples, analogies for easier understanding, and a short summary of the most important points."
+},
+{
+"slug":"complete-strategy-generator",
+"title":"Complete Strategy Generator",
+"category":"Strategy",
+"preview":"Generate full strategies for goals or projects.",
+"prompt":"Act as a professional strategist and consultant. Create a complete strategy to achieve the goal: [GOAL]. Include planning steps, required resources, potential challenges, and practical recommendations for execution."
+},
+{
+"slug":"ultimate-decision-framework",
+"title":"Decision Making Framework",
+"category":"Business",
+"preview":"Analyze options and recommend the best decision.",
+"prompt":"Act as a decision-making expert. Evaluate the following situation: [SITUATION]. Identify possible choices, analyze the pros and cons of each option, estimate risks and benefits, and recommend the best course of action with clear reasoning."
+},
+{
+"slug":"deep-learning-guide",
+"title":"Deep Learning Guide Generator",
+"category":"Learning",
+"preview":"Create complete learning guides for any topic.",
+"prompt":"Act as an experienced teacher and mentor. Create a complete learning guide for mastering [TOPIC]. Include foundational concepts, intermediate skills, advanced techniques, and practical exercises."
+},
+{
+"slug":"ai-critical-analysis",
+"title":"Critical Analysis Generator",
+"category":"Analysis",
+"preview":"Perform critical analysis on ideas or content.",
+"prompt":"Act as a critical thinker and analyst. Analyze the following idea or statement: [IDEA]. Evaluate its strengths, weaknesses, assumptions, and potential impact."
+},
+{
+"slug":"ultimate-comparison-engine",
+"title":"Comparison Analysis Generator",
+"category":"Analysis",
+"preview":"Compare two concepts deeply.",
+"prompt":"Act as an expert analyst. Compare [OPTION A] and [OPTION B]. Explain similarities, differences, advantages, disadvantages, and situations where each option is better."
+},
+{
+"slug":"step-by-step-instructor",
+"title":"Step-by-Step Instructor",
+"category":"Education",
+"preview":"Generate step-by-step instructions for any task.",
+"prompt":"Act as an expert instructor. Provide step-by-step instructions to accomplish the task: [TASK]. Include preparation, tools needed, key steps, common mistakes to avoid, and tips for success."
+},
+{
+"slug":"ultimate-ai-assistant",
+"title":"Ultimate AI Assistant Prompt",
+"category":"AI",
+"preview":"Turn AI into a powerful assistant for any task.",
+"prompt":"Act as a highly capable AI assistant with expertise in multiple fields. When answering, always provide clear explanations, structured sections, examples when helpful, and practical advice."
+},
+{
+"slug":"ultimate-chatgpt-prompt-engineer",
+"title":"Ultimate ChatGPT Prompt Engineer",
+"category":"AI",
+"preview":"Turn simple prompts into powerful AI instructions.",
+"prompt":"Act as an expert prompt engineer who specializes in optimizing prompts for AI models. Improve the following prompt so that it produces clearer, more detailed, and more accurate results. Add role instructions, context, constraints, and output formatting guidelines. Also explain why the improved prompt works better. Prompt: [INSERT PROMPT]"
+},
+{
+"slug":"ultimate-youtube-growth-strategy",
+"title":"YouTube Growth Strategy Generator",
+"category":"YouTube",
+"preview":"Generate a complete YouTube growth strategy.",
+"prompt":"Act as a YouTube growth strategist with experience growing channels to millions of subscribers. Create a complete strategy for a YouTube channel about [NICHE]. Include content ideas, thumbnail style, video hooks, posting schedule, SEO strategy, and audience retention techniques."
+},
+{
+"slug":"ai-business-idea-generator-pro",
+"title":"AI Business Idea Generator Pro",
+"category":"Business",
+"preview":"Generate profitable AI business ideas.",
+"prompt":"Act as a startup strategist and generate 10 profitable business ideas in the industry [INDUSTRY]. For each idea include: problem solved, target audience, potential revenue model, and why this idea has strong market potential."
+},
+{
+"slug":"ultimate-ai-image-prompt",
+"title":"Ultimate AI Image Prompt Generator",
+"category":"AI Image",
+"preview":"Create professional AI image prompts.",
+"prompt":"Act as a professional AI image prompt engineer. Create a highly detailed prompt for generating an image of [SUBJECT]. Include environment, lighting style, camera angle, color palette, artistic style, and rendering quality so the image looks cinematic and realistic."
+},
+{
+"slug":"viral-social-media-content",
+"title":"Viral Social Media Content Generator",
+"category":"Social Media",
+"preview":"Generate viral social media content ideas.",
+"prompt":"Act as a social media strategist. Generate 20 viral content ideas for platforms like Instagram, TikTok, and YouTube Shorts about [TOPIC]. Include hook ideas and engagement triggers."
+},
+{
+"slug":"ultimate-blog-article-writer",
+"title":"Ultimate Blog Article Writer",
+"category":"Writing",
+"preview":"Generate high quality blog articles.",
+"prompt":"Act as an expert blog writer and SEO specialist. Write a detailed blog article about [TOPIC]. Include introduction, headings, examples, actionable insights, and a strong conclusion."
+},
+{
+"slug":"ai-learning-roadmap",
+"title":"AI Learning Roadmap Generator",
+"category":"Education",
+"preview":"Create a step-by-step learning roadmap.",
+"prompt":"Act as an expert teacher. Create a complete learning roadmap for mastering [SKILL]. Include beginner topics, intermediate topics, advanced concepts, and recommended resources."
+},
+{
+"slug":"ai-marketing-strategy-pro",
+"title":"AI Marketing Strategy Generator",
+"category":"Marketing",
+"preview":"Generate marketing strategies for products.",
+"prompt":"Act as a marketing strategist and create a marketing plan for promoting [PRODUCT]. Include target audience, marketing channels, campaign ideas, and growth strategy."
+},
+{
+"slug":"startup-validation-framework",
+"title":"Startup Idea Validation Framework",
+"category":"Startup",
+"preview":"Validate startup ideas before building.",
+"prompt":"Act as a startup advisor. Evaluate the startup idea [IDEA]. Analyze market demand, potential users, competitors, risks, and validation methods before launching."
+},
+{
+"slug":"ultimate-productivity-system",
+"title":"Ultimate Productivity System",
+"category":"Productivity",
+"preview":"Design a productivity system for achieving goals.",
+"prompt":"Act as a productivity coach. Create a daily productivity system for someone who wants to achieve [GOAL]. Include time blocking, task prioritization, and focus strategies."
+},
+{
+"slug":"ultimate-ai-image-generator",
+"title":"Ultimate AI Image Generator",
+"category":"AI Image",
+"preview":"Create ultra-detailed AI images with professional prompts.",
+"prompt":"Act as a professional AI image prompt engineer and digital artist. Create a highly detailed image prompt for generating a stunning image of [SUBJECT]. Include: environment description, lighting style (cinematic, soft light, neon, etc.), camera angle, lens type (35mm, portrait, wide-angle), color palette, mood and atmosphere, artistic style inspiration, level of detail, and rendering quality. The final prompt should be optimized for AI image tools like Midjourney, Leonardo AI, and DALL-E to produce a visually striking and realistic image."
+},
+{
+"slug":"viral-youtube-script-master",
+"title":"Viral YouTube Script Master",
+"category":"YouTube",
+"preview":"Generate highly engaging YouTube scripts designed to increase watch time.",
+"prompt":"Act as a professional YouTube content strategist and script writer who specializes in viral videos. Write a complete YouTube video script about [TOPIC]. Structure the script with: an attention-grabbing hook in the first 10 seconds, a compelling introduction that sets expectations, clear sections with storytelling and examples, pattern interrupts to keep viewers engaged, and a strong call-to-action at the end. Use conversational language and make the script engaging, informative, and optimized for audience retention."
+},
+{
+"slug":"high-converting-ad-copy",
+"title":"High Converting Ad Copy Generator",
+"category":"Marketing",
+"preview":"Create persuasive advertising copy that converts.",
+"prompt":"Act as an expert marketing copywriter with experience writing high-converting advertisements. Write persuasive ad copy for promoting [PRODUCT]. Include a strong hook, emotional triggers, clear benefits, social proof style language, and a powerful call-to-action. Provide 3 variations optimized for platforms such as Facebook Ads, Instagram Ads, and Google Ads."
+},
+{
+"slug":"complete-business-idea-analyzer",
+"title":"Business Idea Analyzer",
+"category":"Business",
+"preview":"Analyze business ideas and provide actionable insights.",
+"prompt":"Act as an experienced startup advisor and business strategist. Analyze the business idea: [IDEA]. Provide insights including target market, potential customers, revenue model, competitive advantages, risks, and marketing strategy. Also suggest improvements and growth opportunities."
+},
+{
+"slug":"ultimate-learning-guide",
+"title":"Ultimate Learning Guide Generator",
+"category":"Education",
+"preview":"Generate structured learning guides for any skill.",
+"prompt":"Act as an expert teacher and learning strategist. Create a complete learning guide for mastering [SKILL]. Include beginner concepts, intermediate topics, advanced techniques, recommended resources, and a 30-day learning roadmap. Structure the guide clearly with headings and bullet points so it is easy to follow."
+},
+{
 "slug": "youtube-thumbnail-generator",
 "title": "YouTube Thumbnail Generator",
 "category": "YouTube",
