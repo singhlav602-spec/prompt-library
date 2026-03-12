@@ -481,5 +481,341 @@
 "category":"Research",
 "preview":"Summarize news.",
 "prompt":"Summarize the latest news about [TOPIC]."
+},
+{
+"slug":"ai-research-summary",
+"title":"Research Summary Generator",
+"category":"Research",
+"preview":"Summarize research topics quickly.",
+"prompt":"Act as a research analyst. Summarize the topic [TOPIC] including key concepts, important findings, and practical implications."
+},
+{
+"slug":"article-idea-generator",
+"title":"Article Idea Generator",
+"category":"Writing",
+"preview":"Generate article ideas.",
+"prompt":"Generate 20 unique article ideas about [TOPIC] that would attract readers and rank well in search engines."
+},
+{
+"slug":"ai-story-plot-generator",
+"title":"Story Plot Generator",
+"category":"Writing",
+"preview":"Generate story plot ideas.",
+"prompt":"Create 10 unique story plot ideas about [THEME]. Include main character, conflict, and resolution idea."
+},
+{
+"slug":"ai-brand-slogan",
+"title":"Brand Slogan Generator",
+"category":"Marketing",
+"preview":"Generate brand slogans.",
+"prompt":"Generate 20 catchy slogans for a brand called [BRAND NAME] in the [INDUSTRY] niche."
+},
+{
+"slug":"ai-product-idea",
+"title":"Product Idea Generator",
+"category":"Business",
+"preview":"Generate product ideas.",
+"prompt":"Generate 10 innovative product ideas for the market segment [MARKET]. Include target audience and main benefit."
+},
+{
+"slug":"ai-niche-finder",
+"title":"Online Niche Finder",
+"category":"Business",
+"preview":"Discover profitable niches.",
+"prompt":"Suggest 15 profitable online niches for someone interested in [INTEREST]."
+},
+{
+"slug":"ai-youtube-channel-ideas",
+"title":"YouTube Channel Idea Generator",
+"category":"YouTube",
+"preview":"Generate YouTube channel ideas.",
+"prompt":"Generate 20 YouTube channel ideas in the niche [NICHE]. Include audience and type of content."
+},
+{
+"slug":"ai-video-hook-generator",
+"title":"Video Hook Generator",
+"category":"YouTube",
+"preview":"Generate engaging video hooks.",
+"prompt":"Write 10 powerful opening hooks for a video about [TOPIC]."
+},
+{
+"slug":"ai-blog-intro-writer",
+"title":"Blog Introduction Writer",
+"category":"Writing",
+"preview":"Write engaging blog introductions.",
+"prompt":"Write a compelling introduction paragraph for a blog post about [TOPIC]."
+},
+{
+"slug":"ai-blog-conclusion-writer",
+"title":"Blog Conclusion Writer",
+"category":"Writing",
+"preview":"Write strong blog conclusions.",
+"prompt":"Write a powerful blog conclusion for an article about [TOPIC]. Encourage readers to take action."
+},
+{
+"slug":"ai-email-subject-lines",
+"title":"Email Subject Line Generator",
+"category":"Email",
+"preview":"Generate high-open-rate subject lines.",
+"prompt":"Generate 15 email subject lines for a newsletter about [TOPIC]."
+},
+{
+"slug":"ai-course-name-generator",
+"title":"Course Name Generator",
+"category":"Education",
+"preview":"Generate course titles.",
+"prompt":"Generate 15 course title ideas for teaching [TOPIC]."
+},
+{
+"slug":"ai-book-title-generator",
+"title":"Book Title Generator",
+"category":"Writing",
+"preview":"Generate book titles.",
+"prompt":"Generate 20 potential book titles for a book about [TOPIC]."
+},
+{
+"slug":"ai-podcast-description",
+"title":"Podcast Description Generator",
+"category":"Content Creation",
+"preview":"Generate podcast descriptions.",
+"prompt":"Write a podcast episode description for an episode about [TOPIC]."
+},
+{
+"slug":"ai-website-about-page",
+"title":"About Page Writer",
+"category":"Web Content",
+"preview":"Write about pages.",
+"prompt":"Write an About page for a company called [COMPANY NAME] in the [INDUSTRY] niche."
+},
+{
+"slug":"ai-mission-statement",
+"title":"Mission Statement Generator",
+"category":"Business",
+"preview":"Generate mission statements.",
+"prompt":"Write a mission statement for a company that does [BUSINESS DESCRIPTION]."
+},
+{
+"slug":"ai-vision-statement",
+"title":"Vision Statement Generator",
+"category":"Business",
+"preview":"Generate vision statements.",
+"prompt":"Write a vision statement for a company in the [INDUSTRY] sector."
+},
+{
+"slug":"ai-brand-story",
+"title":"Brand Story Generator",
+"category":"Branding",
+"preview":"Generate brand stories.",
+"prompt":"Write a brand story for a brand called [BRAND NAME]."
+},
+{
+"slug":"ai-customer-persona",
+"title":"Customer Persona Generator",
+"category":"Marketing",
+"preview":"Generate customer personas.",
+"prompt":"Create a customer persona for a product that solves [PROBLEM]."
+},
+{
+"slug":"ai-market-analysis",
+"title":"Market Analysis Generator",
+"category":"Business",
+"preview":"Generate market analysis.",
+"prompt":"Analyze the market for [INDUSTRY] and summarize opportunities and challenges."
+},
+{
+"slug":"ai-competitor-analysis",
+"title":"Competitor Analysis Generator",
+"category":"Business",
+"preview":"Analyze competitors.",
+"prompt":"Analyze competitors in the [INDUSTRY] niche."
+},
+{
+"slug":"ai-social-media-bio",
+"title":"Social Media Bio Generator",
+"category":"Social Media",
+"preview":"Generate social media bios.",
+"prompt":"Write 5 social media bios for a creator in the niche [NICHE]."
+},
+{
+"slug":"ai-content-idea-generator",
+"title":"Content Idea Generator",
+"category":"Content Creation",
+"preview":"Generate content ideas.",
+"prompt":"Generate 25 content ideas for a creator who talks about [TOPIC]."
+},
+{
+"slug":"ai-tiktok-video-ideas",
+"title":"TikTok Video Idea Generator",
+"category":"Social Media",
+"preview":"Generate TikTok ideas.",
+"prompt":"Generate 20 TikTok video ideas about [TOPIC]."
+},
+{
+"slug":"ai-youtube-short-ideas",
+"title":"YouTube Shorts Ideas",
+"category":"YouTube",
+"preview":"Generate YouTube shorts ideas.",
+"prompt":"Generate 20 YouTube Shorts ideas about [TOPIC]."
+},
+{
+"slug":"ai-caption-generator",
+"title":"Caption Generator",
+"category":"Social Media",
+"preview":"Generate captions.",
+"prompt":"Write 10 engaging captions about [TOPIC]."
+},
+{
+"slug":"ai-hashtag-generator",
+"title":"Hashtag Generator",
+"category":"Social Media",
+"preview":"Generate hashtags.",
+"prompt":"Generate 30 hashtags for posts about [TOPIC]."
+},
+{
+"slug":"ai-video-script-outline",
+"title":"Video Script Outline",
+"category":"YouTube",
+"preview":"Generate video script outlines.",
+"prompt":"Create a video script outline for a video about [TOPIC]."
+},
+{
+"slug":"ai-product-review-writer",
+"title":"Product Review Writer",
+"category":"Writing",
+"preview":"Generate product reviews.",
+"prompt":"Write a detailed product review for [PRODUCT]."
+},
+{
+"slug":"ai-feature-list-generator",
+"title":"Feature List Generator",
+"category":"Product",
+"preview":"Generate product features.",
+"prompt":"List the key features of a product called [PRODUCT]."
+},
+{
+"slug":"ai-benefit-list",
+"title":"Product Benefits Generator",
+"category":"Marketing",
+"preview":"Generate product benefits.",
+"prompt":"List the main benefits of using [PRODUCT]."
+},
+{
+"slug":"ai-faq-generator",
+"title":"FAQ Generator",
+"category":"Content Creation",
+"preview":"Generate FAQs.",
+"prompt":"Generate 10 frequently asked questions about [TOPIC]."
+},
+{
+"slug":"ai-checklist-generator",
+"title":"Checklist Generator",
+"category":"Productivity",
+"preview":"Generate checklists.",
+"prompt":"Create a checklist for completing [TASK]."
+},
+{
+"slug":"ai-step-by-step-guide",
+"title":"Step-by-Step Guide",
+"category":"Education",
+"preview":"Generate guides.",
+"prompt":"Create a step-by-step guide to learn [SKILL]."
+},
+{
+"slug":"ai-learning-tips",
+"title":"Learning Tips Generator",
+"category":"Learning",
+"preview":"Generate study tips.",
+"prompt":"Provide 10 tips to learn [SKILL] faster."
+},
+{
+"slug":"ai-problem-solution",
+"title":"Problem Solution Generator",
+"category":"Advice",
+"preview":"Generate solutions.",
+"prompt":"Suggest solutions for the problem: [PROBLEM]."
+},
+{
+"slug":"ai-motivational-message",
+"title":"Motivational Message Generator",
+"category":"Motivation",
+"preview":"Generate motivational messages.",
+"prompt":"Write a motivational message for someone who is struggling with [PROBLEM]."
+},
+{
+"slug":"ai-quote-generator",
+"title":"Quote Generator",
+"category":"Motivation",
+"preview":"Generate quotes.",
+"prompt":"Generate 10 inspirational quotes about [TOPIC]."
+},
+{
+"slug":"ai-daily-affirmations",
+"title":"Daily Affirmations",
+"category":"Self Improvement",
+"preview":"Generate affirmations.",
+"prompt":"Generate 10 daily affirmations related to [GOAL]."
+},
+{
+"slug":"ai-idea-brainstorm",
+"title":"Idea Brainstorm Generator",
+"category":"Creativity",
+"preview":"Generate brainstorming ideas.",
+"prompt":"Brainstorm 20 creative ideas related to [TOPIC]."
+},
+{
+"slug":"ai-business-tips",
+"title":"Business Tips Generator",
+"category":"Business",
+"preview":"Generate business tips.",
+"prompt":"Give 10 practical tips for growing a business in the [INDUSTRY] niche."
+},
+{
+"slug":"ai-productivity-tips",
+"title":"Productivity Tips Generator",
+"category":"Productivity",
+"preview":"Generate productivity tips.",
+"prompt":"Give 10 productivity tips for people working on [GOAL]."
+},
+{
+"slug":"ai-marketing-tips",
+"title":"Marketing Tips Generator",
+"category":"Marketing",
+"preview":"Generate marketing tips.",
+"prompt":"Provide 10 marketing tips for promoting [PRODUCT]."
+},
+{
+"slug":"ai-content-improvement",
+"title":"Content Improvement Generator",
+"category":"Writing",
+"preview":"Improve content.",
+"prompt":"Improve the following content to make it more engaging: [TEXT]."
+},
+{
+"slug":"ai-paragraph-rewriter",
+"title":"Paragraph Rewriter",
+"category":"Writing",
+"preview":"Rewrite paragraphs.",
+"prompt":"Rewrite the following paragraph to improve clarity and readability: [TEXT]."
+},
+{
+"slug":"ai-text-summarizer",
+"title":"Text Summarizer",
+"category":"Writing",
+"preview":"Summarize text.",
+"prompt":"Summarize the following text in key bullet points: [TEXT]."
+},
+{
+"slug":"ai-topic-explainer",
+"title":"Topic Explainer",
+"category":"Education",
+"preview":"Explain topics.",
+"prompt":"Explain the concept of [TOPIC] in simple terms."
+},
+{
+"slug":"ai-example-generator",
+"title":"Example Generator",
+"category":"Education",
+"preview":"Generate examples.",
+"prompt":"Provide 5 examples related to [TOPIC]."
 }
 ]
