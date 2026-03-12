@@ -1,40 +1,75 @@
 [
-{"slug":"youtube-thumbnail-viral","title":"Viral YouTube Thumbnail","category":"YouTube","preview":"Create high-CTR YouTube thumbnail concepts.","prompt":"Design a high click-through YouTube thumbnail for a video titled [VIDEO TITLE]. Include facial expression ideas, bold colors, 3-word text overlay, and visual elements that create curiosity."},
-
-{"slug":"instagram-carousel-cover","title":"Instagram Carousel Cover","category":"Social Media","preview":"Generate engaging Instagram carousel covers.","prompt":"Design an Instagram carousel cover about [TOPIC]. Include bold typography, minimal icons, and a color palette optimized for mobile readability."},
-
-{"slug":"linkedin-visual-post","title":"LinkedIn Visual Graphic","category":"Social Media","preview":"Create professional LinkedIn visuals.","prompt":"Design a professional LinkedIn graphic for a post about [TOPIC]. Use a clean layout, minimal icons, neutral colors, and bold headline text."},
-
-{"slug":"product-ad-image","title":"Product Advertisement Image","category":"Marketing","preview":"Create marketing images for products.","prompt":"Create a high-converting product advertisement image for [PRODUCT]. Include dramatic lighting, focus on product details, and background elements that highlight benefits."},
-
-{"slug":"ecommerce-product-photo","title":"Ecommerce Product Photo","category":"Ecommerce","preview":"Create premium ecommerce product visuals.","prompt":"Generate a professional ecommerce product photo concept for [PRODUCT]. Include background style, lighting setup, and camera angle that makes the product look premium."},
-
-{"slug":"app-landing-hero","title":"Website Hero Illustration","category":"Web Design","preview":"Create website hero images.","prompt":"Design a hero section image for a website about [TOPIC]. Include modern illustration style, gradient colors, and a clear focal point."},
-
-{"slug":"startup-logo-concept","title":"Startup Logo Concept","category":"Design","preview":"Generate startup logo ideas.","prompt":"Create 5 logo design concepts for a startup called [BRAND NAME] in the [INDUSTRY] industry. Include icon idea, typography style, and color palette."},
-
-{"slug":"ai-avatar-headshot","title":"AI Avatar Headshot","category":"AI Art","preview":"Create professional avatars.","prompt":"Create a photorealistic professional avatar for a person described as [DESCRIPTION]. Use soft lighting, neutral background, and modern portrait composition."},
-
-{"slug":"youtube-thumbnail-reaction","title":"Reaction Style Thumbnail","category":"YouTube","preview":"Generate reaction style thumbnails.","prompt":"Create a reaction style YouTube thumbnail for a video about [TOPIC]. Include exaggerated facial expression, bright colors, and bold text."},
-
-{"slug":"instagram-reel-cover","title":"Instagram Reel Cover","category":"Social Media","preview":"Create reel cover images.","prompt":"Design an Instagram Reel cover image for a video about [TOPIC]. Use bold typography and a simple eye-catching visual."},
-
-{"slug":"blog-featured-image","title":"Blog Featured Image","category":"Content Creation","preview":"Generate blog header images.","prompt":"Create a blog featured image for an article about [TOPIC]. Include symbolic visual elements and a clean composition."},
-
-{"slug":"ai-wallpaper-4k","title":"4K AI Wallpaper","category":"AI Art","preview":"Generate high resolution wallpapers.","prompt":"Create a 4K cinematic wallpaper featuring [THEME]. Use dramatic lighting, depth, and vibrant colors."},
-
-{"slug":"gaming-thumbnail-action","title":"Gaming Action Thumbnail","category":"YouTube","preview":"Generate gaming thumbnails.","prompt":"Create a high energy gaming thumbnail for a video about [GAME]. Include action scene, glowing effects, and bold text."},
-
-{"slug":"movie-poster-style","title":"Movie Poster Style Image","category":"Design","preview":"Create cinematic posters.","prompt":"Design a cinematic movie poster concept for a film about [STORY]. Include dramatic lighting and large title typography."},
-
-{"slug":"ai-fantasy-character","title":"Fantasy Character Art","category":"AI Art","preview":"Generate fantasy character designs.","prompt":"Create a detailed fantasy character illustration of [CHARACTER]. Include armor, magical effects, and epic lighting."},
-
-{"slug":"product-packaging-mockup","title":"Packaging Mockup","category":"Design","preview":"Create packaging design visuals.","prompt":"Design a product packaging mockup for [PRODUCT]. Include box layout, color palette, and typography."},
-
-{"slug":"social-media-ad-banner","title":"Social Media Ad Banner","category":"Marketing","preview":"Create banner ad visuals.","prompt":"Design a social media banner for advertising [PRODUCT]. Include headline placement and product focus."},
-
-{"slug":"minimalist-art","title":"Minimalist Artwork","category":"AI Art","preview":"Generate minimalist art.","prompt":"Create minimalist artwork based on the theme [THEME]. Use simple shapes and limited colors."},
-
+{
+"slug": "youtube-thumbnail-generator",
+"title": "YouTube Thumbnail Generator",
+"category": "YouTube",
+"preview": "Generate high-click YouTube thumbnail ideas.",
+"prompt": "Act as a professional YouTube thumbnail designer. Create a high-CTR thumbnail concept for a video titled [VIDEO TITLE]. Include bold colors, emotional facial expressions, and short text overlays."
+},
+{
+"slug": "instagram-post-image",
+"title": "Instagram Post Image Idea",
+"category": "Social Media",
+"preview": "Generate engaging Instagram post visuals.",
+"prompt": "Create an Instagram image concept for a post about [TOPIC]. Include layout ideas, color palette, and text overlay suggestions."
+},
+{
+"slug": "logo-design-generator",
+"title": "Logo Design Generator",
+"category": "Design",
+"preview": "Generate modern logo ideas.",
+"prompt": "Act as a professional logo designer. Create 5 logo design concepts for a brand called [BRAND NAME]. Include style, colors, and typography suggestions."
+},
+{
+"slug": "product-photo-generator",
+"title": "Product Photo Generator",
+"category": "Ecommerce",
+"preview": "Generate professional product photo concepts.",
+"prompt": "Generate a professional product photo concept for [PRODUCT]. Include background style, lighting setup, and camera angle."
+},
+{
+"slug": "ai-wallpaper-generator",
+"title": "AI Wallpaper Generator",
+"category": "AI Art",
+"preview": "Generate high-resolution wallpapers.",
+"prompt": "Create a cinematic 4K wallpaper featuring [THEME]. Use dramatic lighting and vibrant colors."
+},
+{
+"slug": "blog-featured-image",
+"title": "Blog Featured Image",
+"category": "Content Creation",
+"preview": "Generate blog header image ideas.",
+"prompt": "Create a featured image concept for a blog post about [TOPIC]. Include symbolic visuals and clean composition."
+},
+{
+"slug": "twitter-post-visual",
+"title": "Twitter Graphic Generator",
+"category": "Social Media",
+"preview": "Generate eye-catching Twitter graphics.",
+"prompt": "Design a visual graphic for a Twitter post about [TOPIC]. Use bold text and simple icons."
+},
+{
+"slug": "movie-poster-concept",
+"title": "Movie Poster Concept",
+"category": "Design",
+"preview": "Generate cinematic poster ideas.",
+"prompt": "Create a cinematic movie poster concept for a film titled [TITLE]. Include dramatic lighting and typography layout."
+},
+{
+"slug": "fantasy-character-art",
+"title": "Fantasy Character Art",
+"category": "AI Art",
+"preview": "Generate fantasy character artwork.",
+"prompt": "Create a detailed fantasy character illustration of [CHARACTER]. Include magical effects and epic background."
+},
+{
+"slug": "gaming-thumbnail-generator",
+"title": "Gaming Thumbnail Generator",
+"category": "YouTube",
+"preview": "Generate gaming video thumbnails.",
+"prompt": "Create a gaming YouTube thumbnail concept for a video about [GAME]. Include action scene and bold text."
+}
+]
 {"slug":"nature-landscape-art","title":"Nature Landscape Art","category":"AI Art","preview":"Generate nature landscapes.","prompt":"Create a cinematic landscape scene featuring [LOCATION]. Include sunset lighting and dramatic sky."},
 
 {"slug":"tech-product-render","title":"Tech Product Render","category":"Product","preview":"Generate product renders.","prompt":"Create a photorealistic render of a tech product called [PRODUCT]. Use studio lighting and dark background."},
