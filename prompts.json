@@ -1,40 +1,64 @@
 [
-  {
-    "slug": "youtube-script-generator",
-    "title": "YouTube Script Generator",
-    "category": "YouTube",
-    "preview": "Generate engaging, full-length YouTube scripts optimized for watch time and retention.",
-    "prompt": "Act as a professional YouTube script writer with 10+ years of experience creating viral content. Write a full, engaging script on the topic I provide. Structure it with: a hook in the first 15 seconds to grab attention, a clear intro that sets viewer expectations, 3-5 main sections with smooth transitions, storytelling elements and real-world examples throughout, pattern interrupts every 2-3 minutes to maintain attention, and a strong call-to-action at the end. Use conversational language, short punchy sentences, and natural pauses. Topic: [INSERT YOUR TOPIC HERE]"
-  },
-  {
-    "slug": "study-notes-generator",
-    "title": "Study Notes Generator",
-    "category": "Education",
-    "preview": "Transform complex topics into clear, structured study notes with examples.",
-    "prompt": "Act as an expert educator and learning specialist. Explain the following topic in simple, clear language that a beginner can understand. Structure your response with: a one-paragraph plain-English overview, key concepts broken into bullet points with definitions, 2-3 real-world examples that illustrate the ideas, a simple analogy that makes it memorable, common misconceptions to avoid, and a quick 5-question quiz to test understanding. Use formatting to make it easy to scan and review. Topic: [INSERT YOUR TOPIC HERE]"
-  },
-  {
-    "slug": "cold-email-writer",
-    "title": "Cold Email Writer",
-    "category": "Business",
-    "preview": "Write high-converting cold emails that get replies and open doors.",
-    "prompt": "Act as an expert copywriter specializing in cold outreach with a track record of 40%+ reply rates. Write a cold email for the context I provide. The email must: have a subject line with curiosity or a specific benefit, open with a personalized first line (not generic flattery), clearly state the value proposition in 1-2 sentences, include a specific, low-commitment call-to-action, and be under 150 words total. Avoid buzzwords, hype, and anything that sounds salesy. Write 3 variations: one direct, one story-led, one question-based. Context: [DESCRIBE YOUR PRODUCT/SERVICE AND TARGET RECIPIENT]"
-  },
-  {
-    "slug": "code-reviewer",
-    "title": "Code Reviewer & Debugger",
-    "category": "Coding",
-    "preview": "Get expert code review with bugs identified, improvements suggested, and best practices applied.",
-    "prompt": "Act as a senior software engineer with expertise in clean code, performance optimization, and security. Review the code I provide and give me: a summary of what the code does, a list of bugs or logical errors with line references, security vulnerabilities or risks, performance bottlenecks and how to fix them, readability and maintainability improvements, best practices that are being violated, and a refactored version of the code with comments explaining changes. Be specific, actionable, and explain your reasoning. Code: [PASTE YOUR CODE HERE]"
-  },
-  {
-    "slug": "chatgpt-prompt-improver",
-    "title": "ChatGPT Prompt Improver",
-    "category": "ChatGPT",
-    "preview": "Turn weak prompts into powerful, detailed instructions that get 10x better results.",
-    "prompt": "Act as a prompt engineering expert who specializes in getting maximum performance from large language models. Take the basic prompt I provide and transform it into a high-quality, detailed prompt by: adding a clear role and expertise level for the AI, specifying the exact output format desired, adding context and constraints, including examples of what good output looks like, breaking complex tasks into steps, adding quality criteria the output must meet, and specifying the audience and tone. Then explain what changes you made and why each improvement matters. Basic prompt: [PASTE YOUR WEAK PROMPT HERE]"
-  },
-  {
+{"slug":"youtube-thumbnail-viral","title":"Viral YouTube Thumbnail","category":"YouTube","preview":"Create high-CTR YouTube thumbnail concepts.","prompt":"Design a high click-through YouTube thumbnail for a video titled [VIDEO TITLE]. Include facial expression ideas, bold colors, 3-word text overlay, and visual elements that create curiosity."},
+
+{"slug":"instagram-carousel-cover","title":"Instagram Carousel Cover","category":"Social Media","preview":"Generate engaging Instagram carousel covers.","prompt":"Design an Instagram carousel cover about [TOPIC]. Include bold typography, minimal icons, and a color palette optimized for mobile readability."},
+
+{"slug":"linkedin-visual-post","title":"LinkedIn Visual Graphic","category":"Social Media","preview":"Create professional LinkedIn visuals.","prompt":"Design a professional LinkedIn graphic for a post about [TOPIC]. Use a clean layout, minimal icons, neutral colors, and bold headline text."},
+
+{"slug":"product-ad-image","title":"Product Advertisement Image","category":"Marketing","preview":"Create marketing images for products.","prompt":"Create a high-converting product advertisement image for [PRODUCT]. Include dramatic lighting, focus on product details, and background elements that highlight benefits."},
+
+{"slug":"ecommerce-product-photo","title":"Ecommerce Product Photo","category":"Ecommerce","preview":"Create premium ecommerce product visuals.","prompt":"Generate a professional ecommerce product photo concept for [PRODUCT]. Include background style, lighting setup, and camera angle that makes the product look premium."},
+
+{"slug":"app-landing-hero","title":"Website Hero Illustration","category":"Web Design","preview":"Create website hero images.","prompt":"Design a hero section image for a website about [TOPIC]. Include modern illustration style, gradient colors, and a clear focal point."},
+
+{"slug":"startup-logo-concept","title":"Startup Logo Concept","category":"Design","preview":"Generate startup logo ideas.","prompt":"Create 5 logo design concepts for a startup called [BRAND NAME] in the [INDUSTRY] industry. Include icon idea, typography style, and color palette."},
+
+{"slug":"ai-avatar-headshot","title":"AI Avatar Headshot","category":"AI Art","preview":"Create professional avatars.","prompt":"Create a photorealistic professional avatar for a person described as [DESCRIPTION]. Use soft lighting, neutral background, and modern portrait composition."},
+
+{"slug":"youtube-thumbnail-reaction","title":"Reaction Style Thumbnail","category":"YouTube","preview":"Generate reaction style thumbnails.","prompt":"Create a reaction style YouTube thumbnail for a video about [TOPIC]. Include exaggerated facial expression, bright colors, and bold text."},
+
+{"slug":"instagram-reel-cover","title":"Instagram Reel Cover","category":"Social Media","preview":"Create reel cover images.","prompt":"Design an Instagram Reel cover image for a video about [TOPIC]. Use bold typography and a simple eye-catching visual."},
+
+{"slug":"blog-featured-image","title":"Blog Featured Image","category":"Content Creation","preview":"Generate blog header images.","prompt":"Create a blog featured image for an article about [TOPIC]. Include symbolic visual elements and a clean composition."},
+
+{"slug":"ai-wallpaper-4k","title":"4K AI Wallpaper","category":"AI Art","preview":"Generate high resolution wallpapers.","prompt":"Create a 4K cinematic wallpaper featuring [THEME]. Use dramatic lighting, depth, and vibrant colors."},
+
+{"slug":"gaming-thumbnail-action","title":"Gaming Action Thumbnail","category":"YouTube","preview":"Generate gaming thumbnails.","prompt":"Create a high energy gaming thumbnail for a video about [GAME]. Include action scene, glowing effects, and bold text."},
+
+{"slug":"movie-poster-style","title":"Movie Poster Style Image","category":"Design","preview":"Create cinematic posters.","prompt":"Design a cinematic movie poster concept for a film about [STORY]. Include dramatic lighting and large title typography."},
+
+{"slug":"ai-fantasy-character","title":"Fantasy Character Art","category":"AI Art","preview":"Generate fantasy character designs.","prompt":"Create a detailed fantasy character illustration of [CHARACTER]. Include armor, magical effects, and epic lighting."},
+
+{"slug":"product-packaging-mockup","title":"Packaging Mockup","category":"Design","preview":"Create packaging design visuals.","prompt":"Design a product packaging mockup for [PRODUCT]. Include box layout, color palette, and typography."},
+
+{"slug":"social-media-ad-banner","title":"Social Media Ad Banner","category":"Marketing","preview":"Create banner ad visuals.","prompt":"Design a social media banner for advertising [PRODUCT]. Include headline placement and product focus."},
+
+{"slug":"minimalist-art","title":"Minimalist Artwork","category":"AI Art","preview":"Generate minimalist art.","prompt":"Create minimalist artwork based on the theme [THEME]. Use simple shapes and limited colors."},
+
+{"slug":"nature-landscape-art","title":"Nature Landscape Art","category":"AI Art","preview":"Generate nature landscapes.","prompt":"Create a cinematic landscape scene featuring [LOCATION]. Include sunset lighting and dramatic sky."},
+
+{"slug":"tech-product-render","title":"Tech Product Render","category":"Product","preview":"Generate product renders.","prompt":"Create a photorealistic render of a tech product called [PRODUCT]. Use studio lighting and dark background."},
+
+{"slug":"twitter-post-visual","title":"Twitter Graphic","category":"Social Media","preview":"Generate Twitter graphics.","prompt":"Design a visual graphic for a Twitter post about [TOPIC]. Include bold text and simple icons."},
+
+{"slug":"ebook-cover-modern","title":"Ebook Cover Design","category":"Design","preview":"Generate ebook cover visuals.","prompt":"Design an ebook cover for a book titled [TITLE]. Include typography and imagery."},
+
+{"slug":"comic-style-art","title":"Comic Style Artwork","category":"AI Art","preview":"Generate comic style images.","prompt":"Create a comic-style illustration of [SCENE]. Include bold outlines and vibrant colors."},
+
+{"slug":"profile-picture-style","title":"Stylish Profile Picture","category":"AI Art","preview":"Generate profile images.","prompt":"Create a stylish profile picture concept using neon lighting and modern background."},
+
+{"slug":"branding-color-palette","title":"Brand Color Palette Visual","category":"Design","preview":"Generate brand palette visuals.","prompt":"Create a color palette visual for a brand in the [INDUSTRY] niche."},
+
+{"slug":"concept-art-scene","title":"Concept Art Scene","category":"AI Art","preview":"Generate cinematic concept art.","prompt":"Create concept art for a futuristic city scene with flying vehicles and neon lights."},
+
+{"slug":"food-photography","title":"Food Photography Concept","category":"Product","preview":"Generate food photo ideas.","prompt":"Create a food photography image for [DISH]. Include dramatic lighting and appetizing presentation."},
+
+{"slug":"poster-event","title":"Event Poster Design","category":"Design","preview":"Generate event posters.","prompt":"Design an event poster for [EVENT]. Include typography hierarchy and visual theme."},
+
+{"slug":"app-ui-preview","title":"App UI Preview Image","category":"UI Design","preview":"Generate UI preview images.","prompt":"Create a mobile app UI preview image for an app called [APP NAME]."},
+
+{"slug":"youtube-thumbnail-shock","title":"Shock Style Thumbnail","category":"YouTube","preview":"Generate curiosity thumbnails.","prompt":"Create a YouTube thumbnail using shock expression and bright colors."}
+]  {
     "slug": "business-plan-builder",
     "title": "Business Plan Builder",
     "category": "Business",
