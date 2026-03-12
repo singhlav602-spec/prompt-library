@@ -1,5 +1,551 @@
 [
 {
+"slug":"deep-topic-explainer",
+"title":"Deep Topic Explainer",
+"category":"Education",
+"preview":"Explain any topic in a clear and structured way.",
+"prompt":"Act as an expert teacher. Explain the topic provided by the user in a structured and easy to understand way. Start with a simple overview, then explain the key concepts step by step. Provide examples, practical applications, and a summary of the most important points."
+},
+{
+"slug":"concept-master-explanation",
+"title":"Concept Master Explanation",
+"category":"Education",
+"preview":"Explain complex concepts in detail.",
+"prompt":"Act as a subject expert. Explain the concept in depth using simple language. Include definitions, real world examples, common mistakes, and a summary."
+},
+{
+"slug":"step-by-step-guide-generator",
+"title":"Step By Step Guide Generator",
+"category":"Guides",
+"preview":"Generate detailed step-by-step guides.",
+"prompt":"Act as an expert instructor. Create a detailed step by step guide explaining how to complete the task. Each step must be clear and actionable."
+},
+{
+"slug":"beginner-learning-explainer",
+"title":"Beginner Learning Explainer",
+"category":"Education",
+"preview":"Explain topics for beginners.",
+"prompt":"Act as a beginner friendly teacher. Explain the topic as if teaching someone who has no prior knowledge. Use simple examples and clear explanations."
+},
+{
+"slug":"research-topic-explainer",
+"title":"Research Topic Explainer",
+"category":"Research",
+"preview":"Generate research level explanations.",
+"prompt":"Act as a research expert. Provide a deep explanation of the topic including background, key concepts, examples, and important insights."
+},
+{
+"slug":"problem-solution-explainer",
+"title":"Problem Solution Explainer",
+"category":"Education",
+"preview":"Explain problems and solutions.",
+"prompt":"Explain the problem provided by the user and provide a step by step solution. Include reasoning and examples."
+},
+{
+"slug":"compare-concepts-explainer",
+"title":"Concept Comparison Explainer",
+"category":"Education",
+"preview":"Compare and explain two concepts.",
+"prompt":"Compare the concepts provided by the user. Explain their differences, similarities, advantages, and practical examples."
+},
+{
+"slug":"real-world-example-explainer",
+"title":"Real World Example Explainer",
+"category":"Education",
+"preview":"Explain topics using real world examples.",
+"prompt":"Explain the topic using real world examples and practical scenarios so the concept becomes easy to understand."
+},
+{
+"slug":"detailed-learning-breakdown",
+"title":"Detailed Learning Breakdown",
+"category":"Education",
+"preview":"Break down complex topics.",
+"prompt":"Break the topic into smaller sections and explain each section clearly with examples and summary."
+},
+{
+"slug":"ultimate-topic-explainer",
+"title":"Ultimate Topic Explainer",
+"category":"Education",
+"preview":"Generate a complete explanation of any topic.",
+"prompt":"Act as an expert educator. Provide a complete explanation of the topic including overview, key ideas, examples, step by step explanation, and final summary."
+},
+{
+"slug":"youtube-channel-name-generator",
+"title":"YouTube Channel Name Generator",
+"category":"YouTube",
+"preview":"Generate creative YouTube channel names.",
+"prompt":"Act as a branding expert. Generate 20 unique YouTube channel name ideas based on the topic provided by the user."
+},
+{
+"slug":"youtube-description-generator",
+"title":"YouTube Description Generator",
+"category":"YouTube",
+"preview":"Generate optimized video descriptions.",
+"prompt":"Act as a YouTube SEO expert. Write a compelling YouTube video description optimized for search."
+},
+{
+"slug":"youtube-tags-generator",
+"title":"YouTube Tags Generator",
+"category":"YouTube",
+"preview":"Generate YouTube tags for videos.",
+"prompt":"Generate 20 SEO optimized tags for a YouTube video topic."
+},
+{
+"slug":"youtube-title-generator",
+"title":"YouTube Title Generator",
+"category":"YouTube",
+"preview":"Generate clickable YouTube titles.",
+"prompt":"Act as a YouTube growth strategist. Generate 10 clickable titles for a video topic."
+},
+{
+"slug":"ai-thumbnail-idea-generator",
+"title":"Thumbnail Idea Generator",
+"category":"AI Image",
+"preview":"Generate thumbnail visual ideas.",
+"prompt":"Generate 5 high click-through thumbnail concepts including visual layout and text overlay."
+},
+{
+"slug":"logo-idea-generator",
+"title":"Logo Idea Generator",
+"category":"AI Image",
+"preview":"Generate creative logo ideas.",
+"prompt":"Generate 5 creative logo concepts for the brand name provided by the user."
+},
+{
+"slug":"ai-wallpaper-generator",
+"title":"Wallpaper Prompt Generator",
+"category":"AI Image",
+"preview":"Generate AI wallpaper prompts.",
+"prompt":"Create a detailed prompt for generating a high resolution wallpaper image."
+},
+{
+"slug":"character-design-generator",
+"title":"Character Design Generator",
+"category":"AI Image",
+"preview":"Generate character design prompts.",
+"prompt":"Create a detailed character design prompt including clothing, style, environment, and mood."
+},
+{
+"slug":"ai-background-generator",
+"title":"Background Image Generator",
+"category":"AI Image",
+"preview":"Generate background image prompts.",
+"prompt":"Generate a detailed background image prompt describing environment, lighting, and mood."
+},
+{
+"slug":"ai-banner-generator",
+"title":"Banner Design Prompt",
+"category":"AI Image",
+"preview":"Generate banner design prompts.",
+"prompt":"Generate a banner design prompt including layout, colors, and visual elements."
+},
+{
+"slug":"instagram-bio-generator",
+"title":"Instagram Bio Generator",
+"category":"Social Media",
+"preview":"Generate Instagram bios.",
+"prompt":"Generate 10 creative Instagram bio ideas based on the user's niche."
+},
+{
+"slug":"instagram-post-idea-generator",
+"title":"Instagram Post Idea Generator",
+"category":"Social Media",
+"preview":"Generate Instagram content ideas.",
+"prompt":"Generate 20 Instagram post ideas for a specific niche."
+},
+{
+"slug":"reel-idea-generator",
+"title":"Instagram Reel Idea Generator",
+"category":"Social Media",
+"preview":"Generate reel content ideas.",
+"prompt":"Generate 20 viral Instagram reel ideas for the niche provided."
+},
+{
+"slug":"facebook-post-generator",
+"title":"Facebook Post Generator",
+"category":"Social Media",
+"preview":"Generate Facebook posts.",
+"prompt":"Write an engaging Facebook post about the topic."
+},
+{
+"slug":"social-media-content-calendar",
+"title":"Content Calendar Generator",
+"category":"Social Media",
+"preview":"Generate social media content calendars.",
+"prompt":"Generate a 30 day social media content calendar for a niche."
+},
+{
+"slug":"product-name-generator",
+"title":"Product Name Generator",
+"category":"Business",
+"preview":"Generate product names.",
+"prompt":"Generate 20 unique product name ideas based on the product description."
+},
+{
+"slug":"brand-name-generator",
+"title":"Brand Name Generator",
+"category":"Business",
+"preview":"Generate brand name ideas.",
+"prompt":"Generate 20 creative brand name ideas for a startup."
+},
+{
+"slug":"startup-slogan-generator",
+"title":"Startup Slogan Generator",
+"category":"Business",
+"preview":"Generate brand slogans.",
+"prompt":"Generate 10 catchy slogans for a brand."
+},
+{
+"slug":"sales-copy-generator",
+"title":"Sales Copy Generator",
+"category":"Marketing",
+"preview":"Generate persuasive sales copy.",
+"prompt":"Write persuasive sales copy for a product."
+},
+{
+"slug":"ad-copy-generator",
+"title":"Ad Copy Generator",
+"category":"Marketing",
+"preview":"Generate advertising copy.",
+"prompt":"Write 5 ad copy variations promoting the product."
+},
+{
+"slug":"website-headline-generator",
+"title":"Website Headline Generator",
+"category":"Marketing",
+"preview":"Generate website headlines.",
+"prompt":"Generate 10 compelling headlines for a landing page."
+},
+{
+"slug":"ai-research-assistant",
+"title":"Research Assistant",
+"category":"Productivity",
+"preview":"Generate research summaries.",
+"prompt":"Act as a research assistant. Summarize key information about the topic."
+},
+{
+"slug":"task-planner-generator",
+"title":"Task Planner Generator",
+"category":"Productivity",
+"preview":"Generate daily plans.",
+"prompt":"Create a structured daily productivity plan."
+},
+{
+"slug":"goal-setting-assistant",
+"title":"Goal Setting Assistant",
+"category":"Productivity",
+"preview":"Generate goal plans.",
+"prompt":"Create a step by step plan to achieve a goal."
+},
+{
+"slug":"habit-tracker-generator",
+"title":"Habit Tracker Generator",
+"category":"Productivity",
+"preview":"Generate habit tracking systems.",
+"prompt":"Create a habit tracking plan for personal growth."
+},
+{
+"slug":"meeting-agenda-generator",
+"title":"Meeting Agenda Generator",
+"category":"Productivity",
+"preview":"Generate meeting agendas.",
+"prompt":"Create a structured meeting agenda."
+},
+{
+"slug":"project-plan-generator",
+"title":"Project Plan Generator",
+"category":"Productivity",
+"preview":"Generate project plans.",
+"prompt":"Create a project execution plan."
+},
+{
+"slug":"book-summary-generator",
+"title":"Book Summary Generator",
+"category":"Education",
+"preview":"Generate book summaries.",
+"prompt":"Summarize the key ideas of a book."
+},
+{
+"slug":"concept-explainer",
+"title":"Concept Explainer",
+"category":"Education",
+"preview":"Explain complex concepts.",
+"prompt":"Explain the concept in simple language."
+},
+{
+"slug":"quiz-generator",
+"title":"Quiz Generator",
+"category":"Education",
+"preview":"Generate quiz questions.",
+"prompt":"Generate quiz questions based on the topic."
+},
+{
+"slug":"study-plan-generator",
+"title":"Study Plan Generator",
+"category":"Education",
+"preview":"Generate study plans.",
+"prompt":"Create a study plan for learning a topic."
+},
+{
+"slug":"flashcard-generator",
+"title":"Flashcard Generator",
+"category":"Education",
+"preview":"Generate study flashcards.",
+"prompt":"Generate flashcards for key concepts."
+},
+{
+"slug":"code-reviewer",
+"title":"Code Reviewer",
+"category":"Coding",
+"preview":"Review code quality.",
+"prompt":"Review the code and suggest improvements."
+},
+{
+"slug":"algorithm-generator",
+"title":"Algorithm Generator",
+"category":"Coding",
+"preview":"Generate algorithms.",
+"prompt":"Generate an algorithm to solve the problem."
+},
+{
+"slug":"api-generator",
+"title":"API Generator",
+"category":"Coding",
+"preview":"Generate API examples.",
+"prompt":"Generate a simple API example for the task."
+},
+{
+"slug":"javascript-helper",
+"title":"JavaScript Helper",
+"category":"Coding",
+"preview":"Generate JavaScript code.",
+"prompt":"Write JavaScript code for the task."
+},
+{
+"slug":"html-page-generator",
+"title":"HTML Page Generator",
+"category":"Coding",
+"preview":"Generate HTML page code.",
+"prompt":"Generate a basic HTML page structure."
+},
+{
+"slug":"css-design-generator",
+"title":"CSS Design Generator",
+"category":"Coding",
+"preview":"Generate CSS styles.",
+"prompt":"Generate modern CSS styles for a webpage."
+},
+{
+"slug":"youtube-script-generator-pro",
+"title":"YouTube Script Generator",
+"category":"YouTube",
+"preview":"Generate engaging YouTube scripts designed to increase watch time.",
+"prompt":"Act as a professional YouTube script writer. Write a complete engaging script for a YouTube video about the topic provided by the user. Include hook, introduction, main explanation sections, examples, and a strong call to action."
+},
+{
+"slug":"youtube-video-idea-generator",
+"title":"YouTube Video Idea Generator",
+"category":"YouTube",
+"preview":"Generate viral YouTube video ideas.",
+"prompt":"Act as a YouTube growth strategist. Generate 20 viral YouTube video ideas for a channel based on the topic provided by the user."
+},
+{
+"slug":"youtube-thumbnail-prompt",
+"title":"YouTube Thumbnail Prompt",
+"category":"AI Image",
+"preview":"Generate high click-through YouTube thumbnail concepts.",
+"prompt":"Act as a YouTube thumbnail designer. Generate a thumbnail concept including visual elements, colors, and text overlay for a video topic."
+},
+{
+"slug":"ai-logo-generator",
+"title":"AI Logo Generator",
+"category":"AI Image",
+"preview":"Generate logo design ideas.",
+"prompt":"Act as a professional logo designer. Create 5 logo concepts for the brand name provided by the user."
+},
+{
+"slug":"ai-business-idea-generator",
+"title":"AI Business Idea Generator",
+"category":"Business",
+"preview":"Generate profitable business ideas.",
+"prompt":"Act as a startup advisor. Generate 10 profitable business ideas based on the user's interests or industry."
+},
+{
+"slug":"startup-business-plan",
+"title":"Startup Business Plan Generator",
+"category":"Business",
+"preview":"Generate a complete startup business plan.",
+"prompt":"Act as a startup strategist. Create a detailed business plan for the idea provided by the user."
+},
+{
+"slug":"marketing-strategy-generator",
+"title":"Marketing Strategy Generator",
+"category":"Business",
+"preview":"Generate marketing strategies for products.",
+"prompt":"Act as a marketing strategist. Create a marketing plan for the product described by the user."
+},
+{
+"slug":"seo-blog-writer",
+"title":"SEO Blog Writer",
+"category":"Writing",
+"preview":"Generate SEO optimized blog articles.",
+"prompt":"Act as an SEO content writer. Write a detailed SEO optimized blog article about the topic provided by the user."
+},
+{
+"slug":"article-outline-generator",
+"title":"Article Outline Generator",
+"category":"Writing",
+"preview":"Generate structured article outlines.",
+"prompt":"Act as a content strategist. Generate a detailed article outline with headings and sections."
+},
+{
+"slug":"linkedin-post-generator",
+"title":"LinkedIn Post Generator",
+"category":"Writing",
+"preview":"Generate engaging LinkedIn posts.",
+"prompt":"Act as a LinkedIn content expert. Write a high engagement LinkedIn post about the topic provided by the user."
+},
+{
+"slug":"twitter-thread-generator",
+"title":"Twitter Thread Generator",
+"category":"Writing",
+"preview":"Generate viral Twitter threads.",
+"prompt":"Act as a social media strategist. Create a 10 tweet thread explaining the topic."
+},
+{
+"slug":"ai-caption-generator",
+"title":"Social Media Caption Generator",
+"category":"Writing",
+"preview":"Generate captions for social media posts.",
+"prompt":"Act as a social media marketer. Generate 10 engaging captions for the post topic."
+},
+{
+"slug":"product-description-writer",
+"title":"Product Description Generator",
+"category":"Business",
+"preview":"Generate persuasive product descriptions.",
+"prompt":"Act as an ecommerce copywriter. Write a compelling product description for the product."
+},
+{
+"slug":"email-copy-generator",
+"title":"Marketing Email Generator",
+"category":"Business",
+"preview":"Generate marketing email copy.",
+"prompt":"Act as an email marketing expert. Write a promotional email for the product."
+},
+{
+"slug":"resume-generator",
+"title":"Resume Builder",
+"category":"Career",
+"preview":"Generate professional resumes.",
+"prompt":"Act as a professional resume writer. Create a resume based on the user's skills and experience."
+},
+{
+"slug":"cover-letter-generator",
+"title":"Cover Letter Generator",
+"category":"Career",
+"preview":"Generate job cover letters.",
+"prompt":"Act as a career coach. Write a professional cover letter for a job application."
+},
+{
+"slug":"study-notes-generator",
+"title":"Study Notes Generator",
+"category":"Education",
+"preview":"Generate clear study notes.",
+"prompt":"Act as an expert teacher. Create structured study notes explaining the topic."
+},
+{
+"slug":"mcq-generator",
+"title":"MCQ Question Generator",
+"category":"Education",
+"preview":"Generate multiple choice questions.",
+"prompt":"Act as an exam creator. Generate 20 MCQ questions about the topic."
+},
+{
+"slug":"exam-paper-generator",
+"title":"Exam Paper Generator",
+"category":"Education",
+"preview":"Generate practice exam papers.",
+"prompt":"Act as an exam paper designer. Create a full exam paper based on the topic."
+},
+{
+"slug":"lesson-plan-generator",
+"title":"Lesson Plan Generator",
+"category":"Education",
+"preview":"Generate teaching lesson plans.",
+"prompt":"Act as a teacher. Create a structured lesson plan explaining the topic."
+},
+{
+"slug":"coding-assistant",
+"title":"Coding Assistant",
+"category":"Coding",
+"preview":"Generate clean code for programming tasks.",
+"prompt":"Act as a senior software developer. Write code for the programming task described by the user."
+},
+{
+"slug":"bug-fixer",
+"title":"Code Bug Fixer",
+"category":"Coding",
+"preview":"Fix errors in code.",
+"prompt":"Act as a debugging expert. Identify and fix errors in the code."
+},
+{
+"slug":"python-code-generator",
+"title":"Python Code Generator",
+"category":"Coding",
+"preview":"Generate Python code for tasks.",
+"prompt":"Act as a Python developer. Write Python code to accomplish the task."
+},
+{
+"slug":"sql-query-generator",
+"title":"SQL Query Generator",
+"category":"Coding",
+"preview":"Generate SQL queries.",
+"prompt":"Act as a database expert. Write SQL queries for the task."
+},
+{
+"slug":"website-idea-generator",
+"title":"Website Idea Generator",
+"category":"Business",
+"preview":"Generate website ideas.",
+"prompt":"Act as a startup advisor. Generate profitable website ideas."
+},
+{
+"slug":"landing-page-copy",
+"title":"Landing Page Copy Generator",
+"category":"Marketing",
+"preview":"Generate landing page copy.",
+"prompt":"Act as a copywriter. Write persuasive landing page text."
+},
+{
+"slug":"ai-image-prompt-generator",
+"title":"AI Image Prompt Generator",
+"category":"AI Image",
+"preview":"Generate prompts for AI image tools.",
+"prompt":"Act as an AI image prompt engineer. Generate a detailed prompt for creating an image."
+},
+{
+"slug":"realistic-photo-prompt",
+"title":"Realistic Photo Prompt",
+"category":"AI Image",
+"preview":"Generate realistic photo prompts.",
+"prompt":"Create a photorealistic image prompt describing subject, lighting, camera lens, and environment."
+},
+{
+"slug":"cinematic-photo-prompt",
+"title":"Cinematic Photo Prompt",
+"category":"AI Image",
+"preview":"Generate cinematic photography prompts.",
+"prompt":"Generate a cinematic photography prompt with dramatic lighting and composition."
+},
+{
+"slug":"ai-avatar-generator",
+"title":"AI Avatar Generator",
+"category":"AI Image",
+"preview":"Generate avatar image prompts.",
+"prompt":"Create an AI avatar prompt describing style, lighting, and background."
+},
+{
 "slug":"name-neon-logo",
 "title":"Neon Name Logo Generator",
 "category":"AI Image",
