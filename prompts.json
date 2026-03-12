@@ -138,5 +138,348 @@
 "category": "AI Art",
 "preview": "Generate cinematic wallpapers.",
 "prompt": "Create a cinematic 4K wallpaper featuring [THEME]. Include dramatic lighting and depth."
+},
+  {
+"slug":"ai-youtube-script-writer",
+"title":"YouTube Script Writer",
+"category":"YouTube",
+"preview":"Generate engaging YouTube video scripts.",
+"prompt":"Act as a professional YouTube script writer. Write a full YouTube script about [TOPIC]. Include hook, intro, main points, storytelling, and a strong call-to-action."
+},
+{
+"slug":"youtube-video-title-generator",
+"title":"YouTube Title Generator",
+"category":"YouTube",
+"preview":"Generate high-click YouTube titles.",
+"prompt":"Act as a YouTube growth expert. Generate 20 viral YouTube titles for a video about [TOPIC]. Focus on curiosity, emotion, and SEO keywords."
+},
+{
+"slug":"youtube-video-description",
+"title":"YouTube Description Generator",
+"category":"YouTube",
+"preview":"Create optimized YouTube descriptions.",
+"prompt":"Write a YouTube video description for a video about [TOPIC]. Include SEO keywords, timestamps, and a call to subscribe."
+},
+{
+"slug":"youtube-video-tags",
+"title":"YouTube Tag Generator",
+"category":"YouTube",
+"preview":"Generate SEO tags for YouTube videos.",
+"prompt":"Generate 30 SEO optimized YouTube tags for a video about [TOPIC]."
+},
+{
+"slug":"ai-blog-writer",
+"title":"AI Blog Writer",
+"category":"Writing",
+"preview":"Generate full blog articles.",
+"prompt":"Write a 1200-word SEO blog article about [TOPIC]. Include headings, examples, and actionable advice."
+},
+{
+"slug":"blog-title-generator",
+"title":"Blog Title Generator",
+"category":"Writing",
+"preview":"Generate catchy blog titles.",
+"prompt":"Generate 20 engaging blog post titles about [TOPIC]. Focus on SEO and clickability."
+},
+{
+"slug":"ai-paragraph-writer",
+"title":"Paragraph Writer",
+"category":"Writing",
+"preview":"Generate clear paragraphs.",
+"prompt":"Write a clear and informative paragraph explaining [TOPIC] in simple language."
+},
+{
+"slug":"seo-meta-description",
+"title":"SEO Meta Description Generator",
+"category":"SEO",
+"preview":"Create SEO meta descriptions.",
+"prompt":"Write an SEO optimized meta description for a page about [TOPIC] in under 160 characters."
+},
+{
+"slug":"seo-blog-outline",
+"title":"SEO Blog Outline",
+"category":"SEO",
+"preview":"Generate structured SEO outlines.",
+"prompt":"Create a detailed SEO blog outline for [TOPIC] with headings and subheadings."
+},
+{
+"slug":"ai-business-name-generator",
+"title":"Business Name Generator",
+"category":"Business",
+"preview":"Generate creative business names.",
+"prompt":"Generate 20 creative business name ideas for a company in the [INDUSTRY] niche."
+},
+{
+"slug":"startup-pitch-generator",
+"title":"Startup Pitch Generator",
+"category":"Startup",
+"preview":"Create startup pitches.",
+"prompt":"Write a startup pitch for a business idea: [IDEA]. Include problem, solution, and value proposition."
+},
+{
+"slug":"sales-email-writer",
+"title":"Sales Email Writer",
+"category":"Marketing",
+"preview":"Write persuasive sales emails.",
+"prompt":"Write a persuasive sales email promoting [PRODUCT] to [TARGET AUDIENCE]."
+},
+{
+"slug":"cold-email-generator",
+"title":"Cold Email Generator",
+"category":"Marketing",
+"preview":"Generate outreach emails.",
+"prompt":"Write a cold email to introduce [PRODUCT/SERVICE] to potential clients."
+},
+{
+"slug":"instagram-caption-generator",
+"title":"Instagram Caption Generator",
+"category":"Social Media",
+"preview":"Create engaging captions.",
+"prompt":"Generate 10 engaging Instagram captions about [TOPIC]. Include emojis and hashtags."
+},
+{
+"slug":"twitter-post-generator",
+"title":"Twitter Post Generator",
+"category":"Social Media",
+"preview":"Generate Twitter content.",
+"prompt":"Write 10 tweets about [TOPIC] that encourage engagement."
+},
+{
+"slug":"linkedin-headline-generator",
+"title":"LinkedIn Headline Generator",
+"category":"LinkedIn",
+"preview":"Create strong LinkedIn headlines.",
+"prompt":"Generate 10 professional LinkedIn headlines for someone working as [JOB ROLE]."
+},
+{
+"slug":"resume-summary-writer",
+"title":"Resume Summary Writer",
+"category":"Career",
+"preview":"Generate resume summaries.",
+"prompt":"Write a professional resume summary for a candidate applying for [JOB ROLE]."
+},
+{
+"slug":"cover-letter-generator",
+"title":"Cover Letter Generator",
+"category":"Career",
+"preview":"Create job cover letters.",
+"prompt":"Write a professional cover letter for a job application for [JOB ROLE]."
+},
+{
+"slug":"interview-answer-generator",
+"title":"Interview Answer Generator",
+"category":"Career",
+"preview":"Generate interview answers.",
+"prompt":"Provide a strong answer for the interview question: [QUESTION]."
+},
+{
+"slug":"study-guide-generator",
+"title":"Study Guide Generator",
+"category":"Education",
+"preview":"Create study guides.",
+"prompt":"Create a study guide explaining [TOPIC] with examples and key points."
+},
+{
+"slug":"quiz-question-generator",
+"title":"Quiz Question Generator",
+"category":"Education",
+"preview":"Generate quiz questions.",
+"prompt":"Generate 10 quiz questions about [TOPIC] with answers."
+},
+{
+"slug":"lesson-summary-generator",
+"title":"Lesson Summary Generator",
+"category":"Education",
+"preview":"Summarize lessons.",
+"prompt":"Summarize the key concepts of [TOPIC] for students."
+},
+{
+"slug":"ai-product-description",
+"title":"Product Description Writer",
+"category":"Ecommerce",
+"preview":"Generate product descriptions.",
+"prompt":"Write a compelling product description for [PRODUCT]. Include benefits and features."
+},
+{
+"slug":"shopify-product-copy",
+"title":"Shopify Product Copy",
+"category":"Ecommerce",
+"preview":"Create Shopify product text.",
+"prompt":"Write a high-converting Shopify product page description for [PRODUCT]."
+},
+{
+"slug":"ad-copy-generator",
+"title":"Ad Copy Generator",
+"category":"Marketing",
+"preview":"Generate advertising copy.",
+"prompt":"Write 5 Facebook ad copy variations for promoting [PRODUCT]."
+},
+{
+"slug":"facebook-post-generator",
+"title":"Facebook Post Generator",
+"category":"Social Media",
+"preview":"Create Facebook content.",
+"prompt":"Write 5 engaging Facebook posts about [TOPIC]."
+},
+{
+"slug":"daily-productivity-plan",
+"title":"Daily Productivity Plan",
+"category":"Productivity",
+"preview":"Create daily plans.",
+"prompt":"Create a daily productivity plan for someone who wants to achieve [GOAL]."
+},
+{
+"slug":"goal-setting-plan",
+"title":"Goal Setting Plan",
+"category":"Productivity",
+"preview":"Create goal strategies.",
+"prompt":"Create a step-by-step plan to achieve the goal: [GOAL]."
+},
+{
+"slug":"habit-building-plan",
+"title":"Habit Building Plan",
+"category":"Self Improvement",
+"preview":"Create habit plans.",
+"prompt":"Create a habit building plan for developing the habit of [HABIT]."
+},
+{
+"slug":"mindset-coach-advice",
+"title":"Mindset Coach Advice",
+"category":"Self Improvement",
+"preview":"Provide mindset advice.",
+"prompt":"Give motivational advice for someone struggling with [PROBLEM]."
+},
+{
+"slug":"ai-book-summary",
+"title":"Book Summary Generator",
+"category":"Learning",
+"preview":"Summarize books.",
+"prompt":"Summarize the book [BOOK NAME] in key points."
+},
+{
+"slug":"learning-plan-generator",
+"title":"Learning Plan Generator",
+"category":"Learning",
+"preview":"Create study plans.",
+"prompt":"Create a 30-day learning plan for mastering [SKILL]."
+},
+{
+"slug":"ai-course-outline",
+"title":"Course Outline Generator",
+"category":"Education",
+"preview":"Generate course outlines.",
+"prompt":"Create a course outline for teaching [TOPIC]."
+},
+{
+"slug":"ai-story-writer",
+"title":"Story Generator",
+"category":"Writing",
+"preview":"Generate short stories.",
+"prompt":"Write a short story about [TOPIC]."
+},
+{
+"slug":"ai-poem-writer",
+"title":"Poem Generator",
+"category":"Writing",
+"preview":"Generate poems.",
+"prompt":"Write a creative poem about [TOPIC]."
+},
+{
+"slug":"ai-joke-generator",
+"title":"Joke Generator",
+"category":"Entertainment",
+"preview":"Generate jokes.",
+"prompt":"Write 10 funny jokes about [TOPIC]."
+},
+{
+"slug":"ai-fact-generator",
+"title":"Interesting Facts Generator",
+"category":"Knowledge",
+"preview":"Generate facts.",
+"prompt":"Generate 10 interesting facts about [TOPIC]."
+},
+{
+"slug":"ai-travel-guide",
+"title":"Travel Guide Generator",
+"category":"Travel",
+"preview":"Generate travel guides.",
+"prompt":"Create a travel guide for visiting [CITY]."
+},
+{
+"slug":"ai-recipe-generator",
+"title":"Recipe Generator",
+"category":"Food",
+"preview":"Generate recipes.",
+"prompt":"Create a recipe using [INGREDIENTS]."
+},
+{
+"slug":"ai-workout-plan",
+"title":"Workout Plan Generator",
+"category":"Fitness",
+"preview":"Generate fitness plans.",
+"prompt":"Create a weekly workout plan for someone who wants to achieve [FITNESS GOAL]."
+},
+{
+"slug":"ai-diet-plan",
+"title":"Diet Plan Generator",
+"category":"Health",
+"preview":"Generate diet plans.",
+"prompt":"Create a healthy diet plan for someone with the goal [GOAL]."
+},
+{
+"slug":"ai-finance-advice",
+"title":"Finance Advice Generator",
+"category":"Finance",
+"preview":"Generate financial advice.",
+"prompt":"Provide financial advice for someone who wants to achieve [FINANCIAL GOAL]."
+},
+{
+"slug":"ai-budget-planner",
+"title":"Budget Planner",
+"category":"Finance",
+"preview":"Generate budgets.",
+"prompt":"Create a monthly budget plan for someone earning [INCOME]."
+},
+{
+"slug":"ai-investment-ideas",
+"title":"Investment Ideas",
+"category":"Finance",
+"preview":"Generate investment ideas.",
+"prompt":"Generate 10 investment ideas for someone interested in [INDUSTRY]."
+},
+{
+"slug":"ai-marketing-strategy",
+"title":"Marketing Strategy Generator",
+"category":"Marketing",
+"preview":"Generate marketing plans.",
+"prompt":"Create a marketing strategy for promoting [PRODUCT]."
+},
+{
+"slug":"ai-brand-positioning",
+"title":"Brand Positioning",
+"category":"Marketing",
+"preview":"Generate brand strategies.",
+"prompt":"Create a brand positioning strategy for [BRAND]."
+},
+{
+"slug":"ai-content-calendar",
+"title":"Content Calendar Generator",
+"category":"Content Creation",
+"preview":"Generate content calendars.",
+"prompt":"Create a 30-day content calendar for a brand in the niche [NICHE]."
+},
+{
+"slug":"ai-podcast-topic-generator",
+"title":"Podcast Topic Generator",
+"category":"Content Creation",
+"preview":"Generate podcast topics.",
+"prompt":"Generate 20 podcast episode ideas about [TOPIC]."
+},
+{
+"slug":"ai-news-summary",
+"title":"News Summary Generator",
+"category":"Research",
+"preview":"Summarize news.",
+"prompt":"Summarize the latest news about [TOPIC]."
 }
 ]
