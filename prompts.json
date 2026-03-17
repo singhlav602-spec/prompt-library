@@ -1,5 +1,278 @@
 [
 {
+"slug": "viral-twitter-thread-builder",
+"title": "Viral Twitter Thread Builder",
+"category": "Twitter",
+"preview": "Create a high-engagement Twitter thread.",
+"prompt": "Act as a social media strategist. Write a 10-tweet Twitter thread about [TOPIC]. Start with a powerful hook, provide actionable insights in each tweet, and end with a call-to-action encouraging replies and retweets."
+},
+{
+"slug": "content-research-assistant",
+"title": "Content Research Assistant",
+"category": "Research",
+"preview": "Research a topic and organize key insights.",
+"prompt": "Act as a research analyst. Research the topic [TOPIC] and present the findings in structured sections including key concepts, important statistics, and practical insights."
+},
+{
+"slug": "product-launch-marketing-plan",
+"title": "Product Launch Marketing Plan",
+"category": "Marketing",
+"preview": "Create a marketing strategy for launching a product.",
+"prompt": "Act as a marketing strategist. Design a product launch plan for [PRODUCT]. Include pre-launch strategy, launch-day campaign, and post-launch promotion."
+},
+{
+"slug": "freelance-client-outreach-email",
+"title": "Freelance Client Outreach Email",
+"category": "Freelancing",
+"preview": "Write an email to approach potential freelance clients.",
+"prompt": "Act as an experienced freelancer. Write a professional outreach email offering [SERVICE] to potential clients in the industry [INDUSTRY]. Keep the message concise and persuasive."
+},
+{
+"slug": "ux-user-persona-generator",
+"title": "UX User Persona Generator",
+"category": "UX",
+"preview": "Create detailed user personas for product design.",
+"prompt": "Act as a UX researcher. Create 3 user personas for a product that helps with [PRODUCT PURPOSE]. Include demographics, goals, pain points, and behavior patterns."
+},
+{
+"slug": "ui-design-improvement-review",
+"title": "UI Design Improvement Review",
+"category": "UI",
+"preview": "Analyze UI design and suggest improvements.",
+"prompt": "Act as a UI design expert. Review the following UI concept: [UI DESCRIPTION]. Identify usability issues and suggest improvements."
+},
+{
+"slug": "seo-meta-description-writer",
+"title": "SEO Meta Description Writer",
+"category": "SEO",
+"preview": "Write optimized meta descriptions.",
+"prompt": "Act as an SEO specialist. Write 10 meta descriptions for a page about [TOPIC]. Each description should be under 160 characters and optimized for click-through rate."
+},
+{
+"slug": "productivity-morning-routine",
+"title": "Productivity Morning Routine",
+"category": "Productivity",
+"preview": "Create an effective morning routine.",
+"prompt": "Act as a productivity coach. Design a morning routine that helps someone achieve [GOAL]. Include time blocks and habits."
+},
+{
+"slug": "learning-roadmap-generator",
+"title": "Learning Roadmap Generator",
+"category": "Learning",
+"preview": "Create a roadmap for learning a new skill.",
+"prompt": "Act as a learning strategist. Create a step-by-step roadmap for learning [SKILL]. Include milestones, resources, and projects."
+},
+{
+"slug": "financial-goal-planner",
+"title": "Financial Goal Planner",
+"category": "Finance",
+"preview": "Plan financial goals and milestones.",
+"prompt": "Act as a financial advisor. Create a financial plan for achieving the goal [FINANCIAL GOAL]. Include saving strategy and timeline."
+},
+{
+"slug": "data-analysis-report-generator",
+"title": "Data Analysis Report Generator",
+"category": "Data Analysis",
+"preview": "Create a structured report from data insights.",
+"prompt": "Act as a data analyst. Generate a structured report from the dataset described here: [DATA DESCRIPTION]. Include summary, insights, and recommendations."
+},
+{
+"slug": "python-code-explainer",
+"title": "Python Code Explainer",
+"category": "Python",
+"preview": "Explain Python code step by step.",
+"prompt": "Act as a Python instructor. Explain the following Python code line by line: [CODE]. Include the purpose of each section."
+},
+{
+"slug": "javascript-project-idea-generator",
+"title": "JavaScript Project Idea Generator",
+"category": "JavaScript",
+"preview": "Generate JavaScript project ideas.",
+"prompt": "Act as a programming mentor. Generate 12 JavaScript project ideas for someone learning web development."
+},
+{
+"slug": "web-app-mvp-planner",
+"title": "Web App MVP Planner",
+"category": "Web Development",
+"preview": "Plan the MVP features of a web app.",
+"prompt": "Act as a startup product manager. Define the MVP features for a web application that does [APP IDEA]."
+},
+{
+"slug": "prompt-debugger",
+"title": "Prompt Debugger",
+"category": "Prompt Engineering",
+"preview": "Improve prompts that produce poor AI results.",
+"prompt": "Act as an expert prompt engineer. Analyze the following prompt and improve it for better clarity and results: [PROMPT]."
+},
+{
+"slug": "exam-preparation-plan",
+"title": "Exam Preparation Plan",
+"category": "Study",
+"preview": "Create a structured exam preparation schedule.",
+"prompt": "Act as a professional study coach. Create a structured preparation plan for the exam [EXAM NAME]. Include weekly goals, daily study sessions, revision strategy, and practice testing schedule."
+},
+{
+"slug": "classroom-discussion-questions",
+"title": "Classroom Discussion Questions",
+"category": "Teaching",
+"preview": "Generate engaging classroom discussion prompts.",
+"prompt": "Act as an experienced teacher. Generate 20 classroom discussion questions about [TOPIC]. Questions should encourage critical thinking and debate."
+},
+{
+"slug": "psychological-pattern-analysis",
+"title": "Psychological Pattern Analysis",
+"category": "Psychology",
+"preview": "Analyze psychological patterns in behavior.",
+"prompt": "Act as a psychologist. Analyze the situation: [SCENARIO]. Identify behavioral patterns, emotional triggers, and possible motivations."
+},
+{
+"slug": "daily-reflection-journal",
+"title": "Daily Reflection Journal Prompts",
+"category": "Self Improvement",
+"preview": "Generate prompts for daily reflection.",
+"prompt": "Act as a personal development coach. Generate 25 daily reflection prompts focused on improving [AREA OF LIFE]."
+},
+{
+"slug": "monthly-budget-template",
+"title": "Monthly Budget Template",
+"category": "Finance",
+"preview": "Create a personal budgeting framework.",
+"prompt": "Act as a financial planner. Design a monthly budget plan for someone earning [MONTHLY INCOME]. Include categories for expenses, savings, and investments."
+},
+{
+"slug": "dataset-cleaning-guide",
+"title": "Dataset Cleaning Guide",
+"category": "Data Analysis",
+"preview": "Explain how to clean and prepare datasets.",
+"prompt": "Act as a data analyst. Provide a step-by-step guide for cleaning the dataset described here: [DATASET DESCRIPTION]. Include handling missing values and outliers."
+},
+{
+"slug": "workflow-automation-ideas",
+"title": "Workflow Automation Ideas",
+"category": "Automation",
+"preview": "Generate automation opportunities in workflows.",
+"prompt": "Act as an automation consultant. Generate 15 automation ideas for improving the workflow: [WORKFLOW DESCRIPTION]. Include tools and expected benefits."
+},
+{
+"slug": "ai-business-use-cases",
+"title": "AI Business Use Cases",
+"category": "AI Tools",
+"preview": "Identify AI opportunities in business.",
+"prompt": "Act as an AI innovation strategist. Generate 20 ways AI can improve operations in the industry [INDUSTRY]."
+},
+{
+"slug": "career-roadmap-builder",
+"title": "Career Roadmap Builder",
+"category": "Career",
+"preview": "Plan a long-term career roadmap.",
+"prompt": "Act as a career strategist. Create a 5-year career roadmap for someone currently working as [CURRENT ROLE] who wants to become [TARGET ROLE]."
+},
+{
+"slug": "resume-impact-bullets",
+"title": "Resume Impact Bullet Generator",
+"category": "Resume",
+"preview": "Rewrite resume bullets with impact.",
+"prompt": "Act as a professional resume writer. Rewrite the following resume bullets to highlight achievements and measurable impact: [BULLETS]."
+},
+{
+"slug": "mock-behavioral-interview",
+"title": "Mock Behavioral Interview",
+"category": "Interview",
+"preview": "Simulate a behavioral job interview.",
+"prompt": "Act as a hiring manager. Conduct a behavioral interview for the role [JOB ROLE]. Ask questions one at a time and evaluate the answers."
+},
+{
+"slug": "python-learning-projects",
+"title": "Python Learning Projects",
+"category": "Python",
+"preview": "Generate Python project ideas.",
+"prompt": "Act as a programming mentor. Suggest 15 Python projects for someone at the level [BEGINNER/INTERMEDIATE/ADVANCED]. Include project descriptions and learning outcomes."
+},
+{
+"slug": "javascript-performance-review",
+"title": "JavaScript Performance Review",
+"category": "JavaScript",
+"preview": "Review and improve JavaScript code performance.",
+"prompt": "Act as a senior JavaScript developer. Analyze the code: [CODE]. Identify performance bottlenecks and suggest optimized solutions."
+},
+{
+"slug": "web-application-feature-list",
+"title": "Web Application Feature List",
+"category": "Web Development",
+"preview": "Generate feature ideas for a web application.",
+"prompt": "Act as a product manager. Generate a prioritized list of features for a web app that does [APP PURPOSE]. Include MVP and advanced features."
+},
+{
+"slug": "prompt-template-generator",
+"title": "Prompt Template Generator",
+"category": "Prompt Engineering",
+"preview": "Generate reusable AI prompt templates.",
+"prompt": "Act as an expert prompt engineer. Design a reusable prompt template for solving tasks related to [TASK TYPE]. Include placeholders and output formatting instructions."
+},
+{
+"slug": "long-form-article-generator",
+"title": "Long Form Article Generator",
+"category": "Writing",
+"preview": "Generate a comprehensive long-form article.",
+"prompt": "Act as a professional content writer. Write a detailed 1500+ word article about [TOPIC]. Include an engaging introduction, 6–8 well-structured sections with examples, and a conclusion with actionable takeaways."
+},
+{
+"slug": "youtube-thumbnail-idea-generator",
+"title": "YouTube Thumbnail Idea Generator",
+"category": "YouTube",
+"preview": "Generate high click-through YouTube thumbnail concepts.",
+"prompt": "Act as a YouTube growth expert. Generate 10 thumbnail concepts for a video titled [VIDEO TITLE]. For each concept include text overlay idea, visual elements, and emotion to trigger."
+},
+{
+"slug": "seo-topic-cluster-builder",
+"title": "SEO Topic Cluster Builder",
+"category": "SEO",
+"preview": "Build topic clusters around a main keyword.",
+"prompt": "Act as an SEO strategist. Build a topic cluster strategy around the keyword [KEYWORD]. Include pillar content ideas and supporting articles."
+},
+{
+"slug": "startup-pitch-deck-outline",
+"title": "Startup Pitch Deck Outline",
+"category": "Startup",
+"preview": "Create an outline for a startup pitch deck.",
+"prompt": "Act as a startup advisor. Create a pitch deck outline for a startup called [STARTUP NAME]. Include slides for problem, solution, market size, product, business model, traction, and funding ask."
+},
+{
+"slug": "linkedin-story-post-generator",
+"title": "LinkedIn Story Post",
+"category": "LinkedIn",
+"preview": "Create a storytelling LinkedIn post.",
+"prompt": "Act as a LinkedIn content creator. Write a storytelling post about [EXPERIENCE OR LESSON]. The post should start with a strong hook and end with a thoughtful question."
+},
+{
+"slug": "email-drip-campaign",
+"title": "Email Drip Campaign Generator",
+"category": "Email",
+"preview": "Create an automated email drip campaign.",
+"prompt": "Act as an email marketing strategist. Create a 5-email drip campaign for onboarding users of [PRODUCT]. Include subject lines and main content points."
+},
+{
+"slug": "sales-value-proposition",
+"title": "Sales Value Proposition Generator",
+"category": "Sales",
+"preview": "Craft a clear value proposition.",
+"prompt": "Act as a sales strategist. Create a strong value proposition for [PRODUCT] targeted at [CUSTOMER SEGMENT]."
+},
+{
+"slug": "business-growth-strategy",
+"title": "Business Growth Strategy",
+"category": "Business",
+"preview": "Generate strategies for business growth.",
+"prompt": "Act as a business strategist. Suggest 10 strategies to grow a business in the industry [INDUSTRY]."
+},
+{
+"slug": "market-opportunity-finder",
+"title": "Market Opportunity Finder",
+"category": "Research",
+"preview": "Identify new market opportunities.",
+"prompt": "Act as a market analyst. Identify emerging opportunities in the market for [PRODUCT OR INDUSTRY]."
+},
+{
 "slug":"deep-topic-explainer",
 "title":"Deep Topic Explainer",
 "category":"Education",
