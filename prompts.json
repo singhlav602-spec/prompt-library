@@ -1,5 +1,75 @@
 [
 {
+"slug": "ultra-realistic-nature-landscape",
+"title": "Ultra Realistic Nature Landscape",
+"category": "Image Generation",
+"preview": "Generate a cinematic and ultra realistic mountain valley nature scene.",
+"prompt": "Create an ultra-realistic cinematic landscape of a peaceful mountain valley at sunrise. The scene includes mist slowly rising from a crystal clear river, tall pine trees on both sides, and snow-covered mountains in the distance. Golden sunlight illuminates the valley creating soft rays through the fog. A wooden cabin sits near the river with light smoke from the chimney. Extremely detailed environment, photorealistic textures, cinematic lighting, volumetric fog, 8k resolution, wide-angle lens, nature photography style."
+},
+{
+"slug": "hyper-realistic-portrait-photography",
+"title": "Hyper Realistic Portrait Photography",
+"category": "Image Generation",
+"preview": "Generate a hyper realistic portrait with natural lighting and cinematic depth.",
+"prompt": "Create a hyper-realistic portrait of a young woman standing in soft natural window light. She has expressive eyes, subtle freckles, and natural skin texture. Her hair gently moves as if a soft breeze is passing. The background is softly blurred with warm neutral tones. Capture incredible facial detail, realistic skin pores, soft shadows, shallow depth of field, cinematic photography, 85mm lens, ultra detailed, 8k resolution."
+},
+{
+"slug": "epic-fantasy-floating-island",
+"title": "Epic Fantasy Floating Island",
+"category": "Image Generation",
+"preview": "Generate a magical fantasy landscape with floating islands and dragons.",
+"prompt": "Create a breathtaking fantasy landscape featuring a massive floating island in the sky with waterfalls flowing into the clouds below. Ancient glowing ruins sit on top of the island surrounded by magical trees with glowing leaves. A flying dragon circles in the sky while sunlight breaks through dramatic clouds. Epic fantasy concept art, cinematic lighting, highly detailed environment, vibrant colors, volumetric lighting, ultra detailed, 8k fantasy illustration."
+},
+{
+"slug": "cyberpunk-neon-futuristic-city",
+"title": "Cyberpunk Futuristic City",
+"category": "Image Generation",
+"preview": "Generate a neon cyberpunk city environment with futuristic atmosphere.",
+"prompt": "Create a futuristic cyberpunk city at night filled with neon lights, holographic billboards, flying vehicles, and towering skyscrapers. The streets are wet from recent rain reflecting neon colors everywhere. People walk under glowing umbrellas wearing futuristic clothing. Cinematic cyberpunk atmosphere, dramatic lighting, ultra detailed environment, Blade Runner inspired, photorealistic, 8k resolution."
+},
+{
+"slug": "majestic-lion-wildlife-photography",
+"title": "Majestic Lion Wildlife Photography",
+"category": "Image Generation",
+"preview": "Generate a dramatic wildlife photo of a lion during golden hour.",
+"prompt": "Create a highly detailed wildlife photograph of a majestic lion standing on a rock during golden hour in the African savanna. The wind gently moves the lion's mane while the warm sunlight creates dramatic shadows. The background shows tall grass and distant acacia trees. National Geographic photography style, ultra realistic fur detail, cinematic lighting, 400mm wildlife lens, shallow depth of field, 8k resolution."
+},
+{
+"slug": "cozy-aesthetic-coffee-shop",
+"title": "Cozy Aesthetic Coffee Shop",
+"category": "Image Generation",
+"preview": "Generate a cozy coffee shop scene with warm lighting and relaxing atmosphere.",
+"prompt": "Create a cozy aesthetic coffee shop interior with warm lighting, wooden furniture, bookshelves, plants, and a large window where sunlight enters softly. A person sits near the window drinking coffee while reading a book. Steam rises from the coffee cup. Soft ambient lighting, realistic textures, cozy atmosphere, aesthetic photography style, ultra detailed, 8k resolution."
+},
+{
+"slug": "epic-deep-space-nebula",
+"title": "Epic Deep Space Nebula",
+"category": "Image Generation",
+"preview": "Generate a cinematic space scene with galaxies and a futuristic spaceship.",
+"prompt": "Create a breathtaking space scene with a massive glowing nebula, colorful cosmic clouds, distant galaxies, and a futuristic spaceship flying through the stars. A nearby planet with rings reflects bright light from a distant star. Deep space environment, highly detailed cosmic textures, cinematic lighting, NASA inspired space photography, ultra detailed, 8k resolution."
+},
+{
+"slug": "ancient-roman-inspired-city",
+"title": "Ancient Roman Inspired City",
+"category": "Image Generation",
+"preview": "Generate a historical city inspired by ancient Roman architecture.",
+"prompt": "Create a highly detailed ancient city inspired by Roman architecture. Massive stone buildings, large columns, statues, and a bustling marketplace filled with people wearing historical clothing. Warm sunlight illuminates the stone streets and architecture. Historical realism, cinematic environment, ultra detailed textures, wide cinematic view, 8k resolution."
+},
+{
+"slug": "magical-glowing-forest-night",
+"title": "Magical Glowing Forest Night",
+"category": "Image Generation",
+"preview": "Generate a mystical glowing forest environment at night.",
+"prompt": "Create an enchanted magical forest at night illuminated by glowing fireflies and bioluminescent plants. A small crystal lake reflects the moonlight while ancient trees twist around the scene. Soft magical glow fills the forest atmosphere. Fantasy environment, mystical lighting, ultra detailed textures, cinematic composition, 8k fantasy art."
+},
+{
+"slug": "luxury-smartphone-product-shot",
+"title": "Luxury Smartphone Product Shot",
+"category": "Image Generation",
+"preview": "Generate a professional luxury product photography image.",
+"prompt": "Create a high-end product photography image of a modern smartphone placed on a sleek black reflective surface. Soft studio lighting highlights the edges and texture of the device. Minimalistic luxury background with subtle reflections and shadows. Professional commercial photography style, extremely detailed, studio lighting, 8k resolution."
+},
+{
 "slug": "problem-solution-blog-ideas",
 "title": "Problem Solution Blog Ideas",
 "category": "Content Creation",
