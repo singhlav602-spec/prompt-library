@@ -1,5 +1,495 @@
 [
 {
+"slug": "problem-solution-blog-ideas",
+"title": "Problem Solution Blog Ideas",
+"category": "Content Creation",
+"preview": "Generate blog ideas focused on solving problems.",
+"prompt": "Act as a content strategist. Generate 20 blog post ideas that solve real problems related to [TOPIC]. For each idea include the problem and the proposed solution."
+},
+{
+"slug": "high-converting-headline-generator",
+"title": "High Converting Headline Generator",
+"category": "Marketing",
+"preview": "Generate persuasive marketing headlines.",
+"prompt": "Act as a copywriting expert. Generate 25 persuasive headlines for promoting [PRODUCT OR SERVICE]. Focus on emotional triggers and curiosity."
+},
+{
+"slug": "customer-pain-point-finder",
+"title": "Customer Pain Point Finder",
+"category": "Business",
+"preview": "Identify customer pain points in a market.",
+"prompt": "Act as a market researcher. Identify the major pain points customers experience in the industry [INDUSTRY]. Provide explanations and possible solutions."
+},
+{
+"slug": "linkedin-authority-post",
+"title": "LinkedIn Authority Post",
+"category": "LinkedIn",
+"preview": "Write a post that builds authority.",
+"prompt": "Act as a LinkedIn thought leader. Write a professional LinkedIn post sharing expertise about [TOPIC]. Include a strong insight and practical advice."
+},
+{
+"slug": "youtube-channel-niche-ideas",
+"title": "YouTube Channel Niche Ideas",
+"category": "YouTube",
+"preview": "Generate profitable YouTube niche ideas.",
+"prompt": "Act as a YouTube strategist. Generate 15 profitable niche ideas for starting a YouTube channel."
+},
+{
+"slug": "seo-blog-introduction-writer",
+"title": "SEO Blog Introduction Writer",
+"category": "SEO",
+"preview": "Write engaging blog introductions.",
+"prompt": "Act as an SEO writer. Write 5 engaging introductions for a blog post about [TOPIC]. Each introduction should hook the reader immediately."
+},
+{
+"slug": "email-newsletter-idea-generator",
+"title": "Email Newsletter Ideas",
+"category": "Email",
+"preview": "Generate engaging newsletter topics.",
+"prompt": "Act as an email marketing expert. Generate 20 newsletter content ideas for a brand in the niche [NICHE]."
+},
+{
+"slug": "sales-objection-list",
+"title": "Sales Objection List",
+"category": "Sales",
+"preview": "Identify common sales objections.",
+"prompt": "Act as a sales strategist. List the most common objections customers may have when buying [PRODUCT]. Suggest responses to overcome them."
+},
+{
+"slug": "freelancer-client-proposal",
+"title": "Freelancer Client Proposal",
+"category": "Freelancing",
+"preview": "Create a strong freelance proposal.",
+"prompt": "Act as an experienced freelancer. Write a professional proposal for a client project described here: [PROJECT DESCRIPTION]."
+},
+{
+"slug": "ux-feedback-analysis",
+"title": "UX Feedback Analysis",
+"category": "UX",
+"preview": "Analyze user feedback for UX improvements.",
+"prompt": "Act as a UX researcher. Analyze the following user feedback: [FEEDBACK]. Identify key usability issues and improvements."
+},
+{
+"slug": "ui-accessibility-checklist",
+"title": "UI Accessibility Checklist",
+"category": "UI",
+"preview": "Create accessibility guidelines for UI design.",
+"prompt": "Act as a UI accessibility expert. Create a checklist to ensure accessibility for a web interface."
+},
+{
+"slug": "fast-learning-techniques",
+"title": "Fast Learning Techniques",
+"category": "Learning",
+"preview": "Suggest techniques to learn faster.",
+"prompt": "Act as a cognitive science expert. Provide scientifically proven methods for learning [SKILL] faster."
+},
+{
+"slug": "exam-question-generator",
+"title": "Exam Question Generator",
+"category": "Study",
+"preview": "Generate exam-style questions.",
+"prompt": "Act as a teacher. Generate 15 exam-style questions on the topic [TOPIC]. Include short answers and explanations."
+},
+{
+"slug": "creative-teaching-methods",
+"title": "Creative Teaching Methods",
+"category": "Teaching",
+"preview": "Generate innovative teaching techniques.",
+"prompt": "Act as an education specialist. Suggest creative teaching methods for explaining [TOPIC] to students."
+},
+{
+"slug": "psychology-decision-analysis",
+"title": "Decision Making Psychology",
+"category": "Psychology",
+"preview": "Analyze psychological decision processes.",
+"prompt": "Act as a psychologist. Explain how people make decisions in situations involving [SCENARIO]."
+},
+{
+"slug": "goal-tracking-system",
+"title": "Goal Tracking System",
+"category": "Self Improvement",
+"preview": "Create a system to track goals.",
+"prompt": "Act as a productivity expert. Design a goal tracking system for achieving [GOAL]."
+},
+{
+"slug": "saving-money-strategies",
+"title": "Saving Money Strategies",
+"category": "Finance",
+"preview": "Suggest strategies to save money.",
+"prompt": "Act as a financial advisor. Suggest practical strategies for saving money on a monthly income of [INCOME]."
+},
+{
+"slug": "data-pattern-detector",
+"title": "Data Pattern Detector",
+"category": "Data Analysis",
+"preview": "Detect patterns in datasets.",
+"prompt": "Act as a data scientist. Analyze the dataset description [DATA DESCRIPTION] and identify patterns or correlations."
+},
+{
+"slug": "business-process-automation",
+"title": "Business Process Automation",
+"category": "Automation",
+"preview": "Automate business processes.",
+"prompt": "Act as an automation expert. Suggest ways to automate the process [PROCESS DESCRIPTION]."
+},
+{
+"slug": "ai-workflow-ideas",
+"title": "AI Workflow Ideas",
+"category": "AI Tools",
+"preview": "Generate AI workflow automation ideas.",
+"prompt": "Act as an AI consultant. Generate workflow ideas using AI tools for improving productivity in [INDUSTRY]."
+},
+{
+"slug": "career-decision-framework",
+"title": "Career Decision Framework",
+"category": "Career",
+"preview": "Create a framework for career decisions.",
+"prompt": "Act as a career coach. Provide a framework to evaluate career opportunities between [OPTION A] and [OPTION B]."
+},
+{
+"slug": "resume-achievement-enhancer",
+"title": "Resume Achievement Enhancer",
+"category": "Resume",
+"preview": "Improve resume achievements.",
+"prompt": "Act as a resume consultant. Improve the following achievements to sound stronger and measurable: [ACHIEVEMENTS]."
+},
+{
+"slug": "technical-interview-practice",
+"title": "Technical Interview Practice",
+"category": "Interview",
+"preview": "Generate technical interview questions.",
+"prompt": "Act as a technical interviewer. Generate 20 interview questions for a candidate applying for [TECH ROLE]."
+},
+{
+"slug": "python-debugging-helper",
+"title": "Python Debugging Helper",
+"category": "Python",
+"preview": "Help debug Python code.",
+"prompt": "Act as a Python developer. Analyze the code [CODE] and identify possible bugs and solutions."
+},
+{
+"slug": "javascript-ui-project-ideas",
+"title": "JavaScript UI Project Ideas",
+"category": "JavaScript",
+"preview": "Generate frontend project ideas.",
+"prompt": "Act as a web development mentor. Suggest 12 JavaScript UI project ideas for practice."
+},
+{
+"slug": "web-product-feature-roadmap",
+"title": "Web Product Feature Roadmap",
+"category": "Web Development",
+"preview": "Plan feature roadmap for a web product.",
+"prompt": "Act as a product strategist. Create a feature roadmap for a web product that does [PRODUCT IDEA]."
+},
+{
+"slug": "prompt-testing-framework",
+"title": "Prompt Testing Framework",
+"category": "Prompt Engineering",
+"preview": "Design a system to test prompts.",
+"prompt": "Act as a prompt engineer. Design a framework to test and improve AI prompts for consistent results."
+},
+{
+"slug": "startup-problem-idea-generator",
+"title": "Startup Problem Idea Generator",
+"category": "Startup",
+"preview": "Generate startup ideas based on real problems.",
+"prompt": "Act as a startup strategist. Identify 15 real-world problems in the industry [INDUSTRY] and propose startup ideas that could solve them. Include the problem, solution, and potential customers."
+},
+{
+"slug": "content-hook-generator",
+"title": "Content Hook Generator",
+"category": "Content Creation",
+"preview": "Generate attention-grabbing hooks for content.",
+"prompt": "Act as a content marketing expert. Generate 20 powerful opening hooks for content about [TOPIC]. Hooks should create curiosity and encourage readers to continue."
+},
+{
+"slug": "brand-story-builder",
+"title": "Brand Story Builder",
+"category": "Marketing",
+"preview": "Create a compelling brand story.",
+"prompt": "Act as a branding strategist. Create a compelling brand story for a company selling [PRODUCT]. The story should highlight mission, values, and emotional connection with customers."
+},
+{
+"slug": "customer-persona-generator",
+"title": "Customer Persona Generator",
+"category": "Business",
+"preview": "Create detailed customer personas.",
+"prompt": "Act as a market research expert. Create 3 detailed customer personas for a product that helps with [PROBLEM]. Include demographics, motivations, pain points, and buying triggers."
+},
+{
+"slug": "linkedin-engagement-post",
+"title": "LinkedIn Engagement Post",
+"category": "LinkedIn",
+"preview": "Write a LinkedIn post designed to spark engagement.",
+"prompt": "Act as a LinkedIn growth expert. Write a post about [TOPIC] designed to encourage comments and discussion. Include a strong hook and a question at the end."
+},
+{
+"slug": "youtube-video-outline",
+"title": "YouTube Video Outline",
+"category": "YouTube",
+"preview": "Create a structured YouTube video outline.",
+"prompt": "Act as a YouTube content strategist. Create a structured outline for a video about [TOPIC]. Include hook, introduction, main points, examples, and call-to-action."
+},
+{
+"slug": "seo-content-gap-analysis",
+"title": "SEO Content Gap Analysis",
+"category": "SEO",
+"preview": "Identify missing content opportunities.",
+"prompt": "Act as an SEO analyst. Analyze the topic [TOPIC] and identify content gaps that competitors may not be covering. Suggest article ideas."
+},
+{
+"slug": "email-follow-up-writer",
+"title": "Email Follow-Up Writer",
+"category": "Email",
+"preview": "Write a professional follow-up email.",
+"prompt": "Act as a professional communicator. Write a polite follow-up email regarding [SITUATION]. Keep the tone professional and concise."
+},
+{
+"slug": "sales-page-outline",
+"title": "Sales Page Outline",
+"category": "Sales",
+"preview": "Create a high-converting sales page structure.",
+"prompt": "Act as a conversion copywriter. Create a sales page outline for selling [PRODUCT]. Include headline, problem, solution, benefits, testimonials, and CTA."
+},
+{
+"slug": "freelance-service-package",
+"title": "Freelance Service Package Builder",
+"category": "Freelancing",
+"preview": "Design service packages for freelancers.",
+"prompt": "Act as a freelance business coach. Design 3 service packages for offering [SERVICE]. Include deliverables, pricing ideas, and target clients."
+},
+{
+"slug": "ux-usability-checklist",
+"title": "UX Usability Checklist",
+"category": "UX",
+"preview": "Create a usability checklist for digital products.",
+"prompt": "Act as a UX specialist. Create a usability checklist for evaluating a product that does [PRODUCT PURPOSE]."
+},
+{
+"slug": "ui-design-system-components",
+"title": "UI Design System Components",
+"category": "UI",
+"preview": "List components for a UI design system.",
+"prompt": "Act as a UI architect. List essential components for a UI design system for a web product in the niche [NICHE]."
+},
+{
+"slug": "learning-speed-improvement",
+"title": "Learning Speed Improvement Plan",
+"category": "Learning",
+"preview": "Improve learning efficiency.",
+"prompt": "Act as a cognitive learning expert. Provide strategies to learn [SKILL] faster using proven learning techniques."
+},
+{
+"slug": "study-summary-generator",
+"title": "Study Summary Generator",
+"category": "Study",
+"preview": "Summarize study material clearly.",
+"prompt": "Act as a teacher. Summarize the following study material into clear bullet points: [TEXT]."
+},
+{
+"slug": "teaching-explanation-builder",
+"title": "Teaching Explanation Builder",
+"category": "Teaching",
+"preview": "Explain complex concepts simply.",
+"prompt": "Act as an expert teacher. Explain the concept [CONCEPT] in simple language suitable for beginners."
+},
+{
+"slug": "psychology-motivation-analysis",
+"title": "Motivation Analysis",
+"category": "Psychology",
+"preview": "Analyze motivation behind actions.",
+"prompt": "Act as a behavioral psychologist. Analyze the motivations behind the actions in the scenario: [SCENARIO]."
+},
+{
+"slug": "habit-tracking-plan",
+"title": "Habit Tracking Plan",
+"category": "Self Improvement",
+"preview": "Create a system for tracking habits.",
+"prompt": "Act as a personal development coach. Create a habit tracking system for developing the habit of [HABIT]."
+},
+{
+"slug": "investment-risk-analysis",
+"title": "Investment Risk Analysis",
+"category": "Finance",
+"preview": "Analyze investment risks.",
+"prompt": "Act as a financial analyst. Evaluate the risks and potential returns of investing in [ASSET TYPE]."
+},
+{
+"slug": "dataset-insight-summary",
+"title": "Dataset Insight Summary",
+"category": "Data Analysis",
+"preview": "Extract key insights from data.",
+"prompt": "Act as a data analyst. Review the dataset description: [DATA DESCRIPTION]. Provide key insights and trends."
+},
+{
+"slug": "automation-tool-suggestion",
+"title": "Automation Tool Suggestion",
+"category": "Automation",
+"preview": "Suggest automation tools for workflows.",
+"prompt": "Act as an automation expert. Suggest tools and workflows to automate the process: [PROCESS]."
+},
+{
+"slug": "ai-productivity-workflow",
+"title": "AI Productivity Workflow",
+"category": "AI Tools",
+"preview": "Design an AI-powered workflow.",
+"prompt": "Act as an AI productivity consultant. Design a workflow using AI tools to accomplish the task [TASK]."
+},
+{
+"slug": "career-skill-development-plan",
+"title": "Career Skill Development Plan",
+"category": "Career",
+"preview": "Plan skill development for career growth.",
+"prompt": "Act as a career mentor. Create a skill development plan for someone who wants to grow in the field of [FIELD]."
+},
+{
+"slug": "resume-summary-writer",
+"title": "Resume Summary Writer",
+"category": "Resume",
+"preview": "Create a professional resume summary.",
+"prompt": "Act as a resume expert. Write a professional resume summary for someone applying for [JOB ROLE]."
+},
+{
+"slug": "interview-question-analyzer",
+"title": "Interview Question Analyzer",
+"category": "Interview",
+"preview": "Explain how to answer interview questions.",
+"prompt": "Act as an interview coach. Analyze the question [QUESTION] and explain how a candidate should answer it effectively."
+},
+{
+"slug": "python-beginner-tutorial",
+"title": "Python Beginner Tutorial",
+"category": "Python",
+"preview": "Explain Python concepts step by step.",
+"prompt": "Act as a Python teacher. Explain the concept [PYTHON TOPIC] step-by-step with examples."
+},
+{
+"slug": "javascript-learning-roadmap",
+"title": "JavaScript Learning Roadmap",
+"category": "JavaScript",
+"preview": "Create a roadmap for learning JavaScript.",
+"prompt": "Act as a programming mentor. Create a roadmap for learning JavaScript from beginner to advanced."
+},
+{
+"slug": "web-app-user-flow",
+"title": "Web App User Flow Designer",
+"category": "Web Development",
+"preview": "Design user flow for a web application.",
+"prompt": "Act as a UX designer. Design a user flow for a web application that helps users [APP FUNCTION]."
+},
+{
+"slug": "advanced-prompt-builder",
+"title": "Advanced Prompt Builder",
+"category": "Prompt Engineering",
+"preview": "Generate advanced AI prompts.",
+"prompt": "Act as a prompt engineer. Create a high-quality prompt template for solving tasks related to [TASK TYPE]. Include clear instructions and output format."
+},
+{
+"slug": "viral-twitter-thread-builder",
+"title": "Viral Twitter Thread Builder",
+"category": "Twitter",
+"preview": "Create a high-engagement Twitter thread.",
+"prompt": "Act as a social media strategist. Write a 10-tweet Twitter thread about [TOPIC]. Start with a powerful hook, provide actionable insights in each tweet, and end with a call-to-action encouraging replies and retweets."
+},
+{
+"slug": "content-research-assistant",
+"title": "Content Research Assistant",
+"category": "Research",
+"preview": "Research a topic and organize key insights.",
+"prompt": "Act as a research analyst. Research the topic [TOPIC] and present the findings in structured sections including key concepts, important statistics, and practical insights."
+},
+{
+"slug": "product-launch-marketing-plan",
+"title": "Product Launch Marketing Plan",
+"category": "Marketing",
+"preview": "Create a marketing strategy for launching a product.",
+"prompt": "Act as a marketing strategist. Design a product launch plan for [PRODUCT]. Include pre-launch strategy, launch-day campaign, and post-launch promotion."
+},
+{
+"slug": "freelance-client-outreach-email",
+"title": "Freelance Client Outreach Email",
+"category": "Freelancing",
+"preview": "Write an email to approach potential freelance clients.",
+"prompt": "Act as an experienced freelancer. Write a professional outreach email offering [SERVICE] to potential clients in the industry [INDUSTRY]. Keep the message concise and persuasive."
+},
+{
+"slug": "ux-user-persona-generator",
+"title": "UX User Persona Generator",
+"category": "UX",
+"preview": "Create detailed user personas for product design.",
+"prompt": "Act as a UX researcher. Create 3 user personas for a product that helps with [PRODUCT PURPOSE]. Include demographics, goals, pain points, and behavior patterns."
+},
+{
+"slug": "ui-design-improvement-review",
+"title": "UI Design Improvement Review",
+"category": "UI",
+"preview": "Analyze UI design and suggest improvements.",
+"prompt": "Act as a UI design expert. Review the following UI concept: [UI DESCRIPTION]. Identify usability issues and suggest improvements."
+},
+{
+"slug": "seo-meta-description-writer",
+"title": "SEO Meta Description Writer",
+"category": "SEO",
+"preview": "Write optimized meta descriptions.",
+"prompt": "Act as an SEO specialist. Write 10 meta descriptions for a page about [TOPIC]. Each description should be under 160 characters and optimized for click-through rate."
+},
+{
+"slug": "productivity-morning-routine",
+"title": "Productivity Morning Routine",
+"category": "Productivity",
+"preview": "Create an effective morning routine.",
+"prompt": "Act as a productivity coach. Design a morning routine that helps someone achieve [GOAL]. Include time blocks and habits."
+},
+{
+"slug": "learning-roadmap-generator",
+"title": "Learning Roadmap Generator",
+"category": "Learning",
+"preview": "Create a roadmap for learning a new skill.",
+"prompt": "Act as a learning strategist. Create a step-by-step roadmap for learning [SKILL]. Include milestones, resources, and projects."
+},
+{
+"slug": "financial-goal-planner",
+"title": "Financial Goal Planner",
+"category": "Finance",
+"preview": "Plan financial goals and milestones.",
+"prompt": "Act as a financial advisor. Create a financial plan for achieving the goal [FINANCIAL GOAL]. Include saving strategy and timeline."
+},
+{
+"slug": "data-analysis-report-generator",
+"title": "Data Analysis Report Generator",
+"category": "Data Analysis",
+"preview": "Create a structured report from data insights.",
+"prompt": "Act as a data analyst. Generate a structured report from the dataset described here: [DATA DESCRIPTION]. Include summary, insights, and recommendations."
+},
+{
+"slug": "python-code-explainer",
+"title": "Python Code Explainer",
+"category": "Python",
+"preview": "Explain Python code step by step.",
+"prompt": "Act as a Python instructor. Explain the following Python code line by line: [CODE]. Include the purpose of each section."
+},
+{
+"slug": "javascript-project-idea-generator",
+"title": "JavaScript Project Idea Generator",
+"category": "JavaScript",
+"preview": "Generate JavaScript project ideas.",
+"prompt": "Act as a programming mentor. Generate 12 JavaScript project ideas for someone learning web development."
+},
+{
+"slug": "web-app-mvp-planner",
+"title": "Web App MVP Planner",
+"category": "Web Development",
+"preview": "Plan the MVP features of a web app.",
+"prompt": "Act as a startup product manager. Define the MVP features for a web application that does [APP IDEA]."
+},
+{
+"slug": "prompt-debugger",
+"title": "Prompt Debugger",
+"category": "Prompt Engineering",
+"preview": "Improve prompts that produce poor AI results.",
+"prompt": "Act as an expert prompt engineer. Analyze the following prompt and improve it for better clarity and results: [PROMPT]."
+},
+{
 "slug": "viral-twitter-thread-builder",
 "title": "Viral Twitter Thread Builder",
 "category": "Twitter",
