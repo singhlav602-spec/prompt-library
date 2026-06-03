@@ -1,5 +1,12 @@
 [
 {
+  "slug": "instagram-caption-generator",
+  "title": "Instagram Caption Generator",
+  "category": "Social Media",
+  "preview": "Generate engaging Instagram captions for any topic.",
+  "prompt": "Act as a social media expert. Create 10 engaging Instagram captions for [TOPIC]. Include emojis, a strong hook, and relevant hashtags."
+},
+{
   "slug": "mcq-question-bank-generator",
   "title": "MCQ Question Bank Generator",
   "category": "Education",
