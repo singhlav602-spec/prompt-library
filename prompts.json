@@ -1,44 +1,5 @@
 [
 {
-  slug: "ai-app-generator-master",
-  title: "AI App Generator Master Prompt",
-  category: "AI Tools",
-  preview: "Create a complete AI-powered application from a single concept.",
-  prompt: `Act as an elite AI product architect.
-
-Build a complete AI application around the following idea:
-
-Idea:
-[IDEA]
-
-Target Audience:
-[AUDIENCE]
-
-Requirements:
-[REQUIREMENTS]
-
-Generate:
-
-- Product Overview
-- AI Features
-- AI Workflows
-- Prompt Engineering System
-- User Interface Design
-- Database Structure
-- Authentication Flow
-- Subscription Model
-- API Requirements
-- AI Cost Estimation
-- User Journey
-- Landing Page Copy
-- Feature List
-- Competitive Analysis
-- Launch Strategy
-- Technical Stack
-
-Assume the app must be scalable to 1 million users and provide enterprise-grade recommendations.`
-},
-{
   "slug": "mcq-question-bank-generator",
   "title": "MCQ Question Bank Generator",
   "category": "Education",
@@ -3304,5 +3265,44 @@ Assume the app must be scalable to 1 million users and provide enterprise-grade 
 "category":"Education",
 "preview":"Generate examples.",
 "prompt":"Provide 5 examples related to [TOPIC]."
+},
+{
+  slug: "ai-app-generator-master",
+  title: "AI App Generator Master Prompt",
+  category: "AI Tools",
+  preview: "Create a complete AI-powered application from a single concept.",
+  prompt: `Act as an elite AI product architect.
+
+Build a complete AI application around the following idea:
+
+Idea:
+[IDEA]
+
+Target Audience:
+[AUDIENCE]
+
+Requirements:
+[REQUIREMENTS]
+
+Generate:
+
+- Product Overview
+- AI Features
+- AI Workflows
+- Prompt Engineering System
+- User Interface Design
+- Database Structure
+- Authentication Flow
+- Subscription Model
+- API Requirements
+- AI Cost Estimation
+- User Journey
+- Landing Page Copy
+- Feature List
+- Competitive Analysis
+- Launch Strategy
+- Technical Stack
+
+Assume the app must be scalable to 1 million users and provide enterprise-grade recommendations.`
 }
 ]
